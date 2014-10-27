@@ -18,7 +18,7 @@ d'information géographique (SIG),
 3. les connaissances liées au domaine de la géomatique libre et open source.
 
 L'association dispose d'un ensemble d'outils :
-* un salon http://osgeo.asso.fr/content/osgeo-fr-irc-chathttp://osgeo.asso.fr/content/osgeo-fr-irc-chat sur freenode
+* un salon [IRC](http://osgeo.asso.fr/content/osgeo-fr-irc-chat) sur freenode
 * espace de [wiki proposer par la fondation OSGeo](http://wiki.osgeo.org/wiki/Francophone_OSGeo_Chapter)
 * un compte [github](https://github.com/OSGeo-fr)
 * un espace de stockage dans le cloud
@@ -244,7 +244,7 @@ Le lancement est réalisé par le coordinateur qui annonce le début de la campa
 * ainsi que la date limite pour voter,
 * et la méthode pour voter
 
-La procédure détaillé est disponible sur le (http://wiki.osgeo.org/wiki/Francophone_OSGeo_Chapter)http://wiki.osgeo.org/wiki/RFC_election_fr#Proc.C3.A9dure_de_vote
+La procédure détaillé est disponible sur le [wiki](http://wiki.osgeo.org/wiki/RFC_election_fr#Proc.C3.A9dure_de_vote)
 
 Une fois le bureau élut, l'annonce en est faite sur la [liste de diffusion](http://lists.osgeo.org/mailman/listinfo/francophone).
 Le bureau sortant s'engage à fournir toute les informations et documents a la nouvelle
