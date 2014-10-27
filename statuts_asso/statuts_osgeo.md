@@ -80,12 +80,9 @@ Il est procédé à  l'élection des membres du Bureau, au scrutin uninominal m
 * un responsable communication ;
 * un responsable infrastructure (optionnel);
 
-La fonction de Président n'est pas cumulable. Une personne ne peut pas cumuler plus
-de deux fonctions au sein du bureau. Les postes de Président, Trésorier et Secrétaire
-peuvent être assistés chacun d'une autre personne en cas de besoin. Le Bureau est
-chargé d'organiser l'AGO annuelle et de préparer toutes les opérations et documents
-nécessaires à  son bon déroulement (convocation, ordre du jour, présentation des
-comptes, élection, compte-rendu, etc.).
+La fonction de Président n'est pas cumulable. Une personne ne peut pas cumuler plus de deux fonctions au sein du bureau. Les postes de Président, Trésorier et Secrétaire peuvent être assistés chacun d'une autre personne en cas de besoin. 
+
+Le Bureau est chargé d'organiser l'AGO annuelle et de préparer toutes les opérations et documents nécessaires à  son bon déroulement (convocation, ordre du jour, présentation des comptes, élection, compte-rendu, etc.).
 
 ## article 8 : Réunion du Bureau ##
 Le Bureau se réunit régulièrement pour faire état de l'avancement des projets, des
