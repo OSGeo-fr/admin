@@ -167,11 +167,8 @@ Extraordinaire. Cette modification sera inscrite à  l'ordre du jour et soumise
 membres adhérents présents ou représentés.
 
 **Vote par procuration**
-Il est possibles pour les membres de se faire représenter et
-voter par procuration pour les decisions qui sont prisent en AG. Pour cela  il suffirt de
-confier un pouvoir de vote à  un autre membre actif. Tout
-membre actif ne peut détenir plus de 2 pouvoirs de vote. Le modèle de procuration
- est disponible sur [le drive](https://drive.google.com/file/d/0B-lAiGffr4_6cmJtUU5oNFRiQXM/view?usp=sharing).
+
+Il est possibles pour les membres de se faire représenter et voter par procuration pour les decisions qui sont prises en AG. Pour cela  il suffira de confier un pouvoir de vote à  un autre membre actif. Tout membre actif ne peut détenir plus de 2 pouvoirs de vote. Le modèle de procuration est mis à disposition sur l'infrastructure de l'association.
 
 ## Article 12 : Assemblée Générale Extraordinaire ##
 à la demande du bureau ou sur celle de la majorité des membres actifs (ou adhérents),
