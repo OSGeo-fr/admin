@@ -171,44 +171,25 @@ membres adhérents présents ou représentés.
 Il est possibles pour les membres de se faire représenter et voter par procuration pour les decisions qui sont prises en AG. Pour cela  il suffira de confier un pouvoir de vote à  un autre membre actif. Tout membre actif ne peut détenir plus de 2 pouvoirs de vote. Le modèle de procuration est mis à disposition sur l'infrastructure de l'association.
 
 ## Article 12 : Assemblée Générale Extraordinaire ##
-à la demande du bureau ou sur celle de la majorité des membres actifs (ou adhérents),
-le Président peut convoquer une Assemblée Générale Extraordinaire (AGE). Celle-ci se
-réunira selon les mêmes conditions d'organisation que celles de l'AGO.
 
-## Article 13 : Votes et éléctions du bureau##
+À la demande du bureau ou sur celle de la majorité des membres actifs (ou adhérents), le Président peut convoquer une Assemblée Générale Extraordinaire (AGE). Celle-ci se réunira selon les mêmes conditions d'organisation que celles de l'AGO.
+
+## Article 13 : Votes et élections du bureau##
 
 **Généralité**
-L'éléction du bureau se fait annuellement, et s'effectue sur le [liste de diffusion](http://lists.osgeo.org/mailman/listinfo/francophone)
- de l'association. Elle conserne tout les membres de l'association à jour de leurs
- cotisation la veille du début du vote.
 
-Les élections sont à la majorité (50 % plus une voix, parmi les voix exprimées) pour
-le premier tour. Dans le cas où il y a un deuxième tour, la personne qui reçoit le
-plus de vote est élue.
+L'éléction du bureau se fait annuellement, et s'effectue par moyen électronique. Elle conserne tout les membres de l'association à jour de leurs cotisation la veille du début du vote.
+
+Les élections sont à la majorité (50 % plus une voix, parmi les voix exprimées) pour le premier tour. Dans le cas où il y a un deuxième tour, la personne qui reçoit le plus de vote est élue.
 
 **procédure de vote**
-Le Bureau choisie une personne pour gérer la procédure de vote un mois avant la
-date de l'élection. La suite est gérée par cette personne sous la responsabilité
-du président de l'association.
 
-Le lancement est réalisé par le coordinateur qui annonce le début de la campagne :
-* Il rappel la procédure et donne les liens vers celle-ci
-* rappel la date limite éventuelle pour se présenter,
-* ainsi que la date limite pour voter,
-* et la méthode pour voter
+Le Bureau choisit une personne pour gérer la procédure de vote un mois avant la date de l'élection. La suite est gérée par cette personne sous la responsabilité du président de l'association.
 
-La procédure détaillé est disponible sur le [wiki](http://wiki.osgeo.org/wiki/RFC_election_fr#Proc.C3.A9dure_de_vote)
+La procèdure détaillée de vote est détaillée par la RFC correspondante.
 
-Une fois le bureau élut, l'annonce en est faite sur la [liste de diffusion](http://lists.osgeo.org/mailman/listinfo/francophone).
-Le bureau sortant s'engage à fournir toute les informations et documents a la nouvelle
-équipe.
-
-**Procuration**
-
-Aucune procédure de procuration n'a été prévue pour les éléctions qui ont lieu sur
-la [liste de diffusion](http://lists.osgeo.org/mailman/listinfo/francophone).
-Les élections durent plusieurs semaines, avec possibilité
- de voter sur 5 jours.
+Une fois le bureau élu, l'annonce en est faite publiquement.
+Le bureau sortant s'engage à fournir toutes les informations et documents a la nouvelle équipe.
 
 ## Article 14 : Ressources de l'association ##
 Les ressources de l'association se composent :
