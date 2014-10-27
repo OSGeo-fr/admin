@@ -203,28 +203,15 @@ de la rétribution et des cessions de documentations et de diverses publications
 
 **Sponsorisation**
 
-Une personne morale peut soutenir l'association en souscrivant au programme de
-sponsorisation annuelle ou ponctuelle. Cette aide peut se traduire de manière financière
-ou matérielle. Les possibilités de sponsorisation sont définies au sein du règlement
-intérieur.
+Une personne morale peut soutenir l'association en souscrivant au programme de sponsorisation annuelle ou ponctuelle. Cette aide peut se traduire de manière financière ou matérielle. Les possibilités de sponsorisation sont définies au sein du règlement intérieur.
 
 ## Article 15 : Dissolution de l'association ##
-La dissolution est prononcée, à  la demande du Bureau, par une Assemblée Générale
-Extraordinaire (AGE), convoquée à  cet effet. Pour la validité des décisions, l'AGE doit
-comprendre au moins la majorité des membres (ou adhérents). Si cette proportion n'est
-pas atteinte, une nouvelle AGE est convoquée dans un intervalle de 15 jours. Elle peut
-alors délibérer avec un quorum équivalent au quart de ses membres actifs. Pour être
-valable, la décision de dissolution requiert l'accord des deux tiers des membres présents
-ou représentés. Le vote s'effectue à  bulletin secret.
+
+La dissolution est prononcée, à  la demande du Bureau, par une Assemblée Générale Extraordinaire (AGE), convoquée à  cet effet. Pour la validité des décisions, l'AGE doit comprendre au moins la majorité des membres (ou adhérents). Si cette proportion n'est pas atteinte, une nouvelle AGE est convoquée dans un intervalle de 15 jours. Elle peut alors délibérer avec un quorum équivalent au quart de ses membres actifs. Pour être valable, la décision de dissolution requiert l'accord des deux tiers des membres présents ou représentés. Le vote s'effectue à  bulletin secret.
 
 ## Article 16 : Dévolution des biens ##
-En cas de dissolution, l'Assemblée Générale Extraordinaire désigne un ou plusieurs
-liquidateurs qui seront chargés de la liquidation des biens de l'association et dont elle
-détermine les pouvoirs. En aucun cas les membres de l'association ne pourront se voir
-attribuer, en dehors de la reprise de leurs apports, une part quelconque des biens de
-l'association. L'actif net substituant sera attribué obligatoirement à  une ou plusieurs
-autres associations poursuivant des buts similaires et qui seront nommément désignées
-par l'Assemblée Générale Extraordinaire.
+
+En cas de dissolution, l'Assemblée Générale Extraordinaire désigne un ou plusieurs liquidateurs qui seront chargés de la liquidation des biens de l'association et dont elle détermine les pouvoirs. En aucun cas les membres de l'association ne pourront se voir attribuer, en dehors de la reprise de leurs apports, une part quelconque des biens de l'association. L'actif net substituant sera attribué obligatoirement à  une ou plusieurs autres associations poursuivant des buts similaires et qui seront nommément désignées par l'Assemblée Générale Extraordinaire.
 
 ## Article 17 : Règlement Intérieur ##
 Le Règlement intérieur est établi par les membres de l'association et votés par le
