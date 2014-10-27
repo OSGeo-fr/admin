@@ -192,17 +192,14 @@ Une fois le bureau élu, l'annonce en est faite publiquement.
 Le bureau sortant s'engage à fournir toutes les informations et documents a la nouvelle équipe.
 
 ## Article 14 : Ressources de l'association ##
-Les ressources de l'association se composent :
 
+Les ressources de l'association se composent :
 * du montant des cotisations des membres adhérents ;
-de la rétribution et des cessions de documentations et de diverses publications et
-matériels ;
+de la rétribution et des cessions de documentations et de diverses publications et matériels ;
 * des subventions des personnes morales ;
-* du produit des fêtes et manifestations, des intérêts et redevances des biens et
-valeurs qu'elle pourrait posséder, ainsi que des rétributions pour services rendus ;
+* du produit des fêtes et manifestations, des intérêts et redevances des biens et valeurs qu'elle pourrait posséder, ainsi que des rétributions pour services rendus ;
 * du revenu de ses biens ;
-* de toutes autres ressources ou subventions qui ne seraient pas contraires aux lois
-en vigueur dans les territoires francophones.
+* de toutes autres ressources ou subventions qui ne seraient pas contraires aux lois en vigueur dans les territoires francophones.
 
 **Sponsorisation**
 
