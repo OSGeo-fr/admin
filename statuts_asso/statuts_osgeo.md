@@ -93,32 +93,17 @@ Tout adhérent peut demander la réunion du bureau sur simple demande pour toute
 Les décisions sont prises à  la majorité des voix des membres du Bureau présents. En cas d'égalité des voix, la voix du Président est prépondérante. La réunion donne lieu à  un compte-rendu publié publiquement.
 
 ## Article 9 : Compétences du Bureau ##
-Le Bureau est investi d'une manière générale des pouvoirs les plus étendus dans la
-limite des buts de l'association et dans le cadre des résolutions adoptées par les
-Assemblées Générales. Il peut autoriser tout acte et opération permis par l'association
-et qui ne sont pas réservés à  l'Assemblée Générale qu'elle soit ordinaire ou
-extraordinaire. Il se prononce sur toutes les demandes d'admission afin de devenir
-membre de l'association et confère les éventuels titres de membre bienfaiteur. C'est
-également lui qui prononce les éventuelles mesures d'exclusion des membres.
 
-Il peut en cas de faute grave, suspendre un des membres du Bureau à  la majorité (la
-voix du membre impliqué ne comptant pas). Il fait ouvrir tout compte en banque auprès
-d'un établissement bancaire de son choix, effectue tout emploi de fonds, contracte tout
-emprunt hypothécaire ou autre, sollicite toute subvention, requiert toute inscription et
-transaction utiles. Il autorise le Président et le Trésorier à  faire tout acte, achat,
-aliénation et investissement reconnus nécessaires à  la poursuite de son objet. Il nomme
-et décide de la rémunération éventuelle du personnel de l'association. Il peut déléguer
-tout ou partie de ses attributions à  certains de ses membres.
+Le Bureau est investi d'une manière générale des pouvoirs les plus étendus dans la limite des buts de l'association et dans le cadre des résolutions adoptées par les Assemblées Générales. Il peut autoriser tout acte et opération permis par l'association et qui ne sont pas réservés à  l'Assemblée Générale qu'elle soit ordinaire ou extraordinaire. Il peut se prononcer sur toutes les demandes d'admission afin de devenir membre de l'association et confère les éventuels titres de membre bienfaiteur. C'est également lui qui prononce les éventuelles mesures d'exclusion des membres.
 
-Le Bureau rédige un Règlement Intérieur à  l'aide des membres adhérents,
-conformément aux modalités de l'article 16 des présents statuts. Celui-ci est ratifié lors
-de la prochaine réunion du Bureau.
+Il peut en cas de faute grave, suspendre un des membres du Bureau à  la majorité (la voix du membre impliqué ne comptant pas). Il fait ouvrir tout compte en banque auprès d'un établissement bancaire de son choix, effectue tout emploi de fonds, contracte tout emprunt hypothécaire ou autre, sollicite toute subvention, requiert toute inscription et
+transaction utiles. Il autorise le Président et le Trésorier à  faire tout acte, achat, aliénation et investissement reconnus nécessaires à  la poursuite de son objet. Il nomme et décide de la rémunération éventuelle du personnel de l'association. Il peut déléguer tout ou partie de ses attributions à  certains de ses membres.
 
-Le Bureau peut modifier le siège social de l'association. Cette modification est ensuite
-ratifiée par la prochaine AGO.
+Le Bureau rédige un Règlement Intérieur à  l'aide des membres adhérents, conformément aux modalités de l'article 16 des présents statuts. Celui-ci est ratifié lors de la prochaine réunion du Bureau.
 
-De manière général les membres du bureau s'engage à maintenir a jour les différents
-documents qui régissent le fonctionnement de l'association :
+Le Bureau peut modifier le siège social de l'association. Cette modification est ensuite ratifiée par la prochaine AG.
+
+De manière général les membres du bureau s'engage à maintenir a jour les différents documents qui régissent le fonctionnement de l'association :
 * statuts
 * RFC (Request For Comments)
 
