@@ -12,6 +12,7 @@ francophone de la Fondation Open Source Geospatial (OSGeo) », repris par le sig
 ## Article 2 : Objet ##
 L'association a pour objet de promouvoir dans la sphère francophone et notamment en
 langue française :
+
 1. les technologies libres et open source liées à  la géomatique et aux systèmes
 d'information géographique (SIG),
 2. les données géospatiales libres,
