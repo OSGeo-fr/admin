@@ -11,6 +11,7 @@ francophone de la Fondation Open Source Geospatial (OSGeo) », repris par le sig
 « OSGeo-fr » ou OSGeo Francophone.
 
 ## Article 2 : Objet ##
+
 L'association a pour objet de promouvoir dans la sphère francophone et notamment en
 langue française :
 
@@ -19,14 +20,9 @@ d'information géographique (SIG),
 2. les données géospatiales libres,
 3. les connaissances liées au domaine de la géomatique libre et open source.
 
-L'association dispose d'un ensemble d'outils :
-* un salon [IRC](http://osgeo.asso.fr/content/osgeo-fr-irc-chat) sur freenode
-* espace de [wiki proposer par la fondation OSGeo](http://wiki.osgeo.org/wiki/Francophone_OSGeo_Chapter)
-* un compte [github](https://github.com/OSGeo-fr)
-* un espace de stockage dans le cloud
-
 
 ## Article 3 : Siège social ##
+
 Le siège social est fixé à :
 
         la maison des associations du 12e
