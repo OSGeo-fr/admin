@@ -94,9 +94,8 @@ deux tours et à  bulletin secret :
 * un président ;
 * un trésorier ;
 * un secrétaire (optionnel);
-* un chef de comité pour la commission « logiciels libres » ;
-* un chef de comité pour la commission « organisation libre » ;
-* un chef de comité pour la commission « données libres ».
+* un responsable communication ;
+* un responsable infrastructure (optionnel);
 
 La fonction de Président n'est pas cumulable. Une personne ne peut pas cumuler plus
 de deux fonctions au sein du bureau. Les postes de Président, Trésorier et Secrétaire
@@ -140,31 +139,35 @@ tout ou partie de ses attributions à  certains de ses membres.
 Le Bureau rédige un Règlement Intérieur à  l'aide des membres adhérents,
 conformément aux modalités de l'article 16 des présents statuts. Celui-ci est ratifié lors
 de la prochaine réunion du Bureau.
+
 Le Bureau peut modifier le siège social de l'association. Cette modification est ensuite
 ratifiée par la prochaine AGO.
 
 ## Article 10 : Rôle des membres du Bureau ##
 Le Bureau est spécialement investi dans les attributions suivantes :
 
-1. Le Président dirige les travaux du Bureau et assure le fonctionnement de
+1. *Le Président* dirige les travaux du Bureau et assure le fonctionnement de
 l'association qu'il représente en justice et dans tous les actes de la vie civile. En
 cas d'empêchement, le Président peut déléguer ses pouvoirs, après accord du
 Bureau, à  un autre membre du Bureau.
-2. Le Secrétaire, quand il existe, est chargé de tout ce qui concerne la
+2. *Le Secrétaire*, quand il existe, est chargé de tout ce qui concerne la
 correspondance, notamment l'envoi des diverses convocations. Il rédige les
 procès-verbaux des séances tant du Bureau que des Assemblées Générales et en
 assure la transcription sur le registre prévu à  cet effet. C'est aussi lui qui tient le
 registre spécial prévu par la loi du 1er juillet 1901. En cas d'empêchement, le
 Secrétaire peut déléguer ses pouvoirs, après accord du Bureau, à  un autre
 membre du Bureau.
-3. Le Trésorier tient les comptes de l'association. Il effectue tout paiement et perà§oit
+3. *Le Trésorier* tient les comptes de l'association. Il effectue tout paiement et perà§oit
 toutes les recettes de l'association. Il tient une comptabilité régulière, de toutes
 les opérations tant en recettes qu'en dépenses et rend compte de sa gestion à 
 l'Assemblée Générale Ordinaire qui statue sur les comptes qui lui sont présentés.
 En cas d'empêchement, le Trésorier peut déléguer ses pouvoirs, après accord du
 Bureau, à  un autre membre du Bureau.
-4. Chaque Chef de comité est responsable du bon fonctionnement de la commission
-à  la tête de laquelle il a été élu.
+4. *Le responsable communication* est en charge de la communication interne et externe
+de l'OSGeo-fr, par tous les médias nécessaire
+5. *Le responsable infrastructure* est en charge de la mise en place et de la
+maintenance des outils informatiques de l'association
+
 
 ## Article 11 : Assemblée Générale Ordinaire ##
 L'Assemblée Générale Ordinaire (AGO) comprend tous les membres et bienfaiteurs de
@@ -206,7 +209,10 @@ pourra pas cumuler plus de deux pouvoirs de vote.
 le Président peut convoquer une Assemblée Générale Extraordinaire (AGE). Celle-ci se
 réunira selon les mêmes conditions d'organisation que celles de l'AGO.
 
-## Article 13 : Ressources de l'association ##
+## Article 13 : Votes et éléctions ##
+
+
+## Article 14 : Ressources de l'association ##
 Les ressources de l'association se composent :
 
 * du montant des cotisations des membres adhérents ;
@@ -226,7 +232,7 @@ sponsorisation annuelle ou ponctuelle. Cette aide peut se traduire de manière f
 ou matérielle. Les possibilités de sponsorisation sont définies au sein du règlement
 intérieur.
 
-## Article 14 : Dissolution de l'association ##
+## Article 15 : Dissolution de l'association ##
 La dissolution est prononcée, à  la demande du Bureau, par une Assemblée Générale
 Extraordinaire (AGE), convoquée à  cet effet. Pour la validité des décisions, l'AGE doit
 comprendre au moins la majorité des membres (ou adhérents). Si cette proportion n'est
@@ -235,7 +241,7 @@ alors délibérer avec un quorum équivalent au quart de ses membres actifs. Pou
 valable, la décision de dissolution requiert l'accord des deux tiers des membres présents
 ou représentés. Le vote s'effectue à  bulletin secret.
 
-## Article 15 : Dévolution des biens ##
+## Article 16 : Dévolution des biens ##
 En cas de dissolution, l'Assemblée Générale Extraordinaire désigne un ou plusieurs
 liquidateurs qui seront chargés de la liquidation des biens de l'association et dont elle
 détermine les pouvoirs. En aucun cas les membres de l'association ne pourront se voir
@@ -244,20 +250,20 @@ l'association. L'actif net substituant sera attribué obligatoirement à  une o
 autres associations poursuivant des buts similaires et qui seront nommément désignées
 par l'Assemblée Générale Extraordinaire.
 
-## Article 16 : Règlement Intérieur ##
+## Article 17 : Règlement Intérieur ##
 Le Règlement intérieur est établi par les membres de l'association et votés par le
 Bureau qui en informe les adhérents. La RFC prend effet dès son vote par le Bureau. Ce
 Règlement Intérieur est destiné à  fixer les divers points non prévus par les présents
 statuts, notamment ceux qui ont trait au fonctionnement pratique des activités de
 l'association.
 
-## Article 17 : Formalités administratives ##
+## Article 18 : Formalités administratives ##
 Le Président du Bureau doit accomplir toutes les formalités de déclaration et de
 publication prévues par la loi du 1er juillet 1901 et par le décret du 16 aoà»t 1901 tant au
 moment de la création de l'association qu'au cours de son existence ultérieure. Ces
 statuts ont été adoptés lors de l'Assemblée Générale du 19 juin 2008.
 
-## Article 18 : Informatique et libertés ##
+## Article 19 : Informatique et libertés ##
 L'utilisation de données nominatives dans le cadre de l'association est fait en accord
 avec la loi 78-17 du 6 janvier 1978, relative à  l'informatique, aux fichiers et aux libertés
 et des textes modificatifs ultérieurs.
