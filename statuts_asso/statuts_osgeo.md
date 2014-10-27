@@ -123,11 +123,10 @@ documents qui régissent le fonctionnement de l'association :
 * RFC (Request For Comments)
 
 ## Article 10 : Rôle des membres du Bureau ##
+
 Le Bureau est spécialement investi dans les attributions suivantes :
 
-1. *Le Président* dirige les travaux du Bureau et assure le fonctionnement de
-l'association qu'il représente en justice et dans tous les actes de la vie civile. En
-cas d'empêchement, le Président peut déléguer ses pouvoirs, après accord du
+1. *Le Président* dirige les travaux du Bureau et assure le fonctionnement de l'association qu'il représente en justice et dans tous les actes de la vie civile. En cas d'empêchement, le Président peut déléguer ses pouvoirs, après accord du
 Bureau, à  un autre membre du Bureau.
 2. *Le Secrétaire*, quand il existe, est chargé de tout ce qui concerne la
 correspondance, notamment l'envoi des diverses convocations. Il rédige les
