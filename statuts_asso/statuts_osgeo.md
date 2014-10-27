@@ -120,36 +120,17 @@ Bureau, à  un autre membre du Bureau.
 5. *Le responsable infrastructure* est en charge de la mise en place et de la maintenance des outils informatiques de l'association
 
 ## Article 11 : Assemblée Générale Ordinaire ##
-L'Assemblée Générale Ordinaire (AGO) comprend tous les membres et bienfaiteurs de
-l'association. Elle se réunit chaque année. Quinze jours au moins
-avant la date fixée, les membres de l'association sont convoqués par le(la) Secrétaire.
-L'ordre du jour est indiqué sur les convocations.
 
-Au cas où le quorum nécessaire à  la tenue de l'AGO (50 % des membres présents ou
-représentés + 1) ne serait pas atteint, l'AGO pourra être close par le Président et pourra
-être immédiatement suivie d'une AGE, sans quorum obligatoire.
+L'Assemblée Générale Ordinaire (AGO) comprend tous les membres et bienfaiteurs de l'association. Elle se réunit chaque année. Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués par le(la) Secrétaire.  L'ordre du jour est indiqué sur les convocations.  
+Au cas où le quorum nécessaire à  la tenue de l'AGO (50 % des membres présents ou représentés + 1) ne serait pas atteint, l'AGO pourra être close par le Président et pourra être immédiatement suivie d'une AGE, sans quorum obligatoire.
 
-Cette éventualité de fonctionnement devra, pour être valable, être précisée sur les convocations
-à  l'AGO. Le Président, assisté des membres du Bureau, préside l'Assemblée Générale et expose
-la situation morale de l'association. Le Trésorier rend compte de sa gestion et soumet le
-bilan à  l'approbation de l'Assemblée Générale. Si le siège social a été modifié par le
-Bureau en cours d'année, il sera procédé à  un vote de ratification.
+Cette éventualité de fonctionnement devra, pour être valable, être précisée sur les convocations à  l'AGO. Le Président, assisté des membres du Bureau, préside l'Assemblée Générale et expose la situation morale de l'association. Le Trésorier rend compte de sa gestion et soumet le bilan à  l'approbation de l'Assemblée Générale. Si le siège social a été modifié par le Bureau en cours d'année, il sera procédé à  un vote de ratification.
 
-Les décisions de l'Assemblée Générale Ordinaire sont prises à  la majorité des membres
-présents ou représentés. Toutes les délibérations sont prises à  main levée ou procédé
-équivalent. Toutefois, à  la demande du quart au moins des membres présents, les votes
-pourront être réalisés à  bulletin secret.
+Les décisions de l'Assemblée Générale Ordinaire sont prises à  la majorité des membres présents ou représentés. Toutes les délibérations sont prises à  main levée ou procédé équivalent. Toutefois, à  la demande du quart au moins des membres présents, les votes pourront être réalisés à  bulletin secret.
 
-Ne pourront être traitées, lors des Assemblées Générales, que les questions prévue à 
-l'ordre du jour. Concernant les questions diverses, celle-ci pourront être intégrées à 
-l'ordre du jour en tout début d'AGO, après approbation des membres du Bureau. Le
-refus de traiter une question diverse, ainsi que son motif, devront être mentionnés dans
-le compte-rendu de l'Assemblée Générale.
+Ne pourront être traitées, lors des Assemblées Générales, que les questions prévue à  l'ordre du jour. Concernant les questions diverses, celle-ci pourront être intégrées à  l'ordre du jour en tout début d'AGO, après approbation des membres du Bureau. Le refus de traiter une question diverse, ainsi que son motif, devront être mentionnés dans le compte-rendu de l'Assemblée Générale.
 
-Les présents statuts ne peuvent être modifiés que sur proposition de modification 1
-mois au moins avant l'Assemblée Générale ou dans le cadre d'une Assemblée Générale
-Extraordinaire. Cette modification sera inscrite à  l'ordre du jour et soumise au vote des
-membres adhérents présents ou représentés.
+Les présents statuts ne peuvent être modifiés que sur proposition de modification 1 mois au moins avant l'Assemblée Générale ou dans le cadre d'une Assemblée Générale Extraordinaire. Cette modification sera inscrite à  l'ordre du jour et soumise au vote des membres adhérents présents ou représentés.
 
 **Vote par procuration**
 
