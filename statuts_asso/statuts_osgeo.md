@@ -85,18 +85,12 @@ La fonction de Président n'est pas cumulable. Une personne ne peut pas cumuler 
 Le Bureau est chargé d'organiser l'AGO annuelle et de préparer toutes les opérations et documents nécessaires à  son bon déroulement (convocation, ordre du jour, présentation des comptes, élection, compte-rendu, etc.).
 
 ## article 8 : Réunion du Bureau ##
-Le Bureau se réunit régulièrement pour faire état de l'avancement des projets, des
-problèmes rencontrés, des pistes d'évolution et de résolution à  envisager. Chaque
-adhérent de l'association a la possibilité d'ajouter un ou plusieurs sujets de son choix à 
-l'ordre du jour. Il pourra éventuellement lui être demandé d'être présent lors de cette
-réunion pour apporter des informations quant à  sa demande.
 
-Tout adhérent peut demander la réunion du bureau sur simple demande pour toutes
-questions en rapport avec l'objet de l'association.
+Le Bureau se réunit régulièrement pour faire état de l'avancement des projets, des problèmes rencontrés, des pistes d'évolution et de résolution à  envisager. Chaque adhérent de l'association a la possibilité d'ajouter un ou plusieurs sujets de son choix à  l'ordre du jour. Il pourra éventuellement lui être demandé d'être présent lors de cette réunion pour apporter des informations quant à  sa demande.
 
-Les décisions sont prises à  la majorité des voix des membres du Bureau présents. En
-cas d'égalité des voix, la voix du Président est prépondérante. La réunion donne lieu à 
-un compte-rendu public publié sur le wiki.
+Tout adhérent peut demander la réunion du bureau sur simple demande pour toutes questions en rapport avec l'objet de l'association.  
+
+Les décisions sont prises à  la majorité des voix des membres du Bureau présents. En cas d'égalité des voix, la voix du Président est prépondérante. La réunion donne lieu à  un compte-rendu publié publiquement.
 
 ## Article 9 : Compétences du Bureau ##
 Le Bureau est investi d'une manière générale des pouvoirs les plus étendus dans la
