@@ -128,23 +128,11 @@ Le Bureau est spécialement investi dans les attributions suivantes :
 
 1. *Le Président* dirige les travaux du Bureau et assure le fonctionnement de l'association qu'il représente en justice et dans tous les actes de la vie civile. En cas d'empêchement, le Président peut déléguer ses pouvoirs, après accord du
 Bureau, à  un autre membre du Bureau.
-2. *Le Secrétaire*, quand il existe, est chargé de tout ce qui concerne la
-correspondance, notamment l'envoi des diverses convocations. Il rédige les
-procès-verbaux des séances tant du Bureau que des Assemblées Générales et en
-assure la transcription sur le registre prévu à  cet effet. C'est aussi lui qui tient le
-registre spécial prévu par la loi du 1er juillet 1901. En cas d'empêchement, le
-Secrétaire peut déléguer ses pouvoirs, après accord du Bureau, à  un autre
-membre du Bureau.
-3. *Le Trésorier* tient les comptes de l'association. Il effectue tout paiement et perà§oit
-toutes les recettes de l'association. Il tient une comptabilité régulière, de toutes
-les opérations tant en recettes qu'en dépenses et rend compte de sa gestion à 
-l'Assemblée Générale Ordinaire qui statue sur les comptes qui lui sont présentés.
-En cas d'empêchement, le Trésorier peut déléguer ses pouvoirs, après accord du
-Bureau, à  un autre membre du Bureau.
-4. *Le responsable communication* est en charge de la communication interne et externe
-de l'OSGeo-fr, par tous les médias nécessaire
-5. *Le responsable infrastructure* est en charge de la mise en place et de la
-maintenance des outils informatiques de l'association
+
+2. *Le Secrétaire*, quand il existe, est chargé de tout ce qui concerne la correspondance, notamment l'envoi des diverses convocations. Il rédige les procès-verbaux des séances tant du Bureau que des Assemblées Générales et en assure la transcription sur le registre prévu à  cet effet. C'est aussi lui qui tient le registre spécial prévu par la loi du 1er juillet 1901. En cas d'empêchement, le Secrétaire peut déléguer ses pouvoirs, après accord du Bureau, à  un autre membre du Bureau.
+3. *Le Trésorier* tient les comptes de l'association. Il effectue tout paiement et perçoit toutes les recettes de l'association. Il tient une comptabilité régulière, de toutes les opérations tant en recettes qu'en dépenses et rend compte de sa gestion à  l'Assemblée Générale Ordinaire qui statue sur les comptes qui lui sont présentés.  En cas d'empêchement, le Trésorier peut déléguer ses pouvoirs, après accord du Bureau, à  un autre membre du Bureau.
+4. *Le responsable communication* est en charge de la communication interne et externe de l'OSGeo-fr, par tous les médias nécessaire
+5. *Le responsable infrastructure* est en charge de la mise en place et de la maintenance des outils informatiques de l'association
 
 ## Article 11 : Assemblée Générale Ordinaire ##
 L'Assemblée Générale Ordinaire (AGO) comprend tous les membres et bienfaiteurs de
