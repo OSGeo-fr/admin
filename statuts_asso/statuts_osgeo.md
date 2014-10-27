@@ -17,6 +17,13 @@ d'information géographique (SIG),
 2. les données géospatiales libres,
 3. les connaissances liées au domaine de la géomatique libre et open source.
 
+L'association dispose d'un ensemble d'outils :
+* un salon [IRC][irc] sur freenode
+* espace de [wiki proposer par la fondation OSGeo][wiki]
+* un compte [github][githubOsgeofr]
+* un espace de stockage dans le cloud
+
+
 ## Article 3 : Siège social ##
 Le siège social est fixé à :
 
@@ -45,9 +52,7 @@ Règlement Intérieur. Ces documents lui seront transmis à  sa demande.
 Ce sont les personnes physiques qui adhèrent à  l'association et participent aux activités
 de celle-ci. Elles s'acquittent du paiement d'une cotisation annuelle, dont le montant est
 fixé dans le règlement intérieur. Elles ont le droit de vote (1 personne = 1 voix) pour
-participer aux fonctionnement de l'association. Elles pourront se faire représenter et
-voter par procuration en confiant un pouvoir de vote à  un autre membre actif. Tout
-membre actif ne peut détenir plus de 2 pouvoirs de vote.
+participer aux fonctionnement de l'association.
 
 L'adhésion est valide après l'envoi d'un bulletin d'adhésion et acceptation de celui-ci par
 le Bureau. L'adhésion est valable tant que la personne admise remplit les qualités
@@ -143,6 +148,11 @@ de la prochaine réunion du Bureau.
 Le Bureau peut modifier le siège social de l'association. Cette modification est ensuite
 ratifiée par la prochaine AGO.
 
+De manière général les membres du bureau s'engage à maintenir a jour les différents
+documents qui régissent le fonctionnement de l'association :
+* statuts
+* RFC (Request For Comments)
+
 ## Article 10 : Rôle des membres du Bureau ##
 Le Bureau est spécialement investi dans les attributions suivantes :
 
@@ -168,18 +178,18 @@ de l'OSGeo-fr, par tous les médias nécessaire
 5. *Le responsable infrastructure* est en charge de la mise en place et de la
 maintenance des outils informatiques de l'association
 
-
 ## Article 11 : Assemblée Générale Ordinaire ##
 L'Assemblée Générale Ordinaire (AGO) comprend tous les membres et bienfaiteurs de
-l'association. Elle se réunit chaque année au mois de septembre. Quinze jours au moins
+l'association. Elle se réunit chaque année. Quinze jours au moins
 avant la date fixée, les membres de l'association sont convoqués par le(la) Secrétaire.
 L'ordre du jour est indiqué sur les convocations.
 
-Au cas oà¹ le quorum nécessaire à  la tenue de l'AGO (50 % des membres présents ou
+Au cas où le quorum nécessaire à  la tenue de l'AGO (50 % des membres présents ou
 représentés + 1) ne serait pas atteint, l'AGO pourra être close par le Président et pourra
-être immédiatement suivie d'une AGE, sans quorum obligatoire. Cette éventualité de
-fonctionnement devra, pour être valable, être précisée sur les convocations à  l'AGO.
-Le Président, assisté des membres du Bureau, préside l'Assemblée Générale et expose
+être immédiatement suivie d'une AGE, sans quorum obligatoire.
+
+Cette éventualité de fonctionnement devra, pour être valable, être précisée sur les convocations
+à  l'AGO. Le Président, assisté des membres du Bureau, préside l'Assemblée Générale et expose
 la situation morale de l'association. Le Trésorier rend compte de sa gestion et soumet le
 bilan à  l'approbation de l'Assemblée Générale. Si le siège social a été modifié par le
 Bureau en cours d'année, il sera procédé à  un vote de ratification.
@@ -200,17 +210,50 @@ mois au moins avant l'Assemblée Générale ou dans le cadre d'une Assemblée G�
 Extraordinaire. Cette modification sera inscrite à  l'ordre du jour et soumise au vote des
 membres adhérents présents ou représentés.
 
-Un membre qui ne pourra pas être présent pourra donner procuration de vote à  un
-membre présent selon les modalités définies dans le règlement intérieur. Un membre ne
-pourra pas cumuler plus de deux pouvoirs de vote.
+**Vote par procuration**
+Il est possibles pour les membres de se faire représenter et
+voter par procuration pour les decisions qui sont prisent en AG. Pour cela  il suffirt de
+confier un pouvoir de vote à  un autre membre actif. Tout
+membre actif ne peut détenir plus de 2 pouvoirs de vote. Le modèle de procuration
+ est disponible sur [le drive][proc].
 
 ## Article 12 : Assemblée Générale Extraordinaire ##
 à la demande du bureau ou sur celle de la majorité des membres actifs (ou adhérents),
 le Président peut convoquer une Assemblée Générale Extraordinaire (AGE). Celle-ci se
 réunira selon les mêmes conditions d'organisation que celles de l'AGO.
 
-## Article 13 : Votes et éléctions ##
+## Article 13 : Votes et éléctions du bureau##
 
+**Généralité**
+L'éléction du bureau se fait annuellement, et s'effectue sur le [liste de diffusion][list]
+ de l'association. Elle conserne tout les membres de l'association à jour de leurs
+ cotisation la veille du début du vote.
+
+Les élections sont à la majorité (50 % plus une voix, parmi les voix exprimées) pour
+le premier tour. Dans le cas où il y a un deuxième tour, la personne qui reçoit le
+plus de vote est élue.
+
+**procédure de vote**
+Le Bureau choisie une personne pour gérer la procédure de vote un mois avant la
+date de l'élection. La suite est gérée par cette personne sous la responsabilité
+du président de l'association.
+
+Le lancement est réalisé par le coordinateur qui annonce le début de la campagne :
+* Il rappel la procédure et donne les liens vers celle-ci
+* rappel la date limite éventuelle pour se présenter,
+* ainsi que la date limite pour voter,
+* et la méthode pour voter
+
+La procédure détaillé est disponible sur le [wiki][procedureVote]
+
+Une fois le bureau élut, l'annonce en est faite sur la [liste de diffusion][list].
+Le bureau sortant s'engage à fournir toute les informations et documents a la nouvelle
+équipe.
+
+**Procuration**
+Aucune procédure de procuration n'a été prévue pour les éléctions qui ont lieu sur
+la [liste de diffusion][list]. Les élections durent plusieurs semaines, avec possibilité
+ de voter sur 5 jours.
 
 ## Article 14 : Ressources de l'association ##
 Les ressources de l'association se composent :
@@ -257,6 +300,8 @@ Règlement Intérieur est destiné à  fixer les divers points non prévus par 
 statuts, notamment ceux qui ont trait au fonctionnement pratique des activités de
 l'association.
 
+Il est disponible sur le [wiki de l'OSGeo][reglement_interieur]
+
 ## Article 18 : Formalités administratives ##
 Le Président du Bureau doit accomplir toutes les formalités de déclaration et de
 publication prévues par la loi du 1er juillet 1901 et par le décret du 16 aoà»t 1901 tant au
@@ -267,3 +312,11 @@ statuts ont été adoptés lors de l'Assemblée Générale du 19 juin 2008.
 L'utilisation de données nominatives dans le cadre de l'association est fait en accord
 avec la loi 78-17 du 6 janvier 1978, relative à  l'informatique, aux fichiers et aux libertés
 et des textes modificatifs ultérieurs.
+
+[reglement_interieur] http://wiki.osgeo.org/wiki/RFC_r%C3%A8glement_int%C3%A9rieur_fr
+[list] http://lists.osgeo.org/mailman/listinfo/francophone
+[proc] https://drive.google.com/file/d/0B-lAiGffr4_6cmJtUU5oNFRiQXM/view?usp=sharing
+[wiki] http://wiki.osgeo.org/wiki/Francophone_OSGeo_Chapter
+[githubOsgeofr] https://github.com/OSGeo-fr
+[irc] http://osgeo.asso.fr/content/osgeo-fr-irc-chat
+[procedureVote] http://wiki.osgeo.org/wiki/RFC_election_fr#Proc.C3.A9dure_de_vote
