@@ -46,9 +46,7 @@ Chaque membre prend l'engagement de respecter les présents statuts, ainsi que l
 
 Ce sont les personnes physiques qui adhèrent à  l'association et participent aux activités de celle-ci. Elles s'acquittent du paiement d'une cotisation annuelle, dont le montant est fixé dans le règlement intérieur. Elles ont le droit de vote (1 personne = 1 voix) pour participer aux fonctionnement de l'association.
 
-L'adhésion est valide après l'envoi d'un bulletin d'adhésion et acceptation de celui-ci par
-le Bureau. L'adhésion est valable tant que la personne admise remplit les qualités
-requises pour faire partie de l'association.
+L'adhésion est valide après la finalisation de la procédure d'adhésion définie par le règlement intérieur, et sans refus du Bureau dans les 7 jours. L'adhésion est valable tant que la personne admise remplit les qualités requises pour faire partie de l'association.
 
 **Les membres bienfaiteurs**
 
