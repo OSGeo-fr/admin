@@ -18,9 +18,9 @@ d'information géographique (SIG),
 3. les connaissances liées au domaine de la géomatique libre et open source.
 
 L'association dispose d'un ensemble d'outils :
-* un salon [IRC][irc] sur freenode
-* espace de [wiki proposer par la fondation OSGeo][wiki]
-* un compte [github][githubOsgeofr]
+* un salon http://osgeo.asso.fr/content/osgeo-fr-irc-chathttp://osgeo.asso.fr/content/osgeo-fr-irc-chat sur freenode
+* espace de [wiki proposer par la fondation OSGeo](http://wiki.osgeo.org/wiki/Francophone_OSGeo_Chapter)
+* un compte [github](https://github.com/OSGeo-fr)
 * un espace de stockage dans le cloud
 
 
@@ -215,7 +215,7 @@ Il est possibles pour les membres de se faire représenter et
 voter par procuration pour les decisions qui sont prisent en AG. Pour cela  il suffirt de
 confier un pouvoir de vote à  un autre membre actif. Tout
 membre actif ne peut détenir plus de 2 pouvoirs de vote. Le modèle de procuration
- est disponible sur [le drive][proc].
+ est disponible sur [le drive](https://drive.google.com/file/d/0B-lAiGffr4_6cmJtUU5oNFRiQXM/view?usp=sharing).
 
 ## Article 12 : Assemblée Générale Extraordinaire ##
 à la demande du bureau ou sur celle de la majorité des membres actifs (ou adhérents),
@@ -225,7 +225,7 @@ réunira selon les mêmes conditions d'organisation que celles de l'AGO.
 ## Article 13 : Votes et éléctions du bureau##
 
 **Généralité**
-L'éléction du bureau se fait annuellement, et s'effectue sur le [liste de diffusion][list]
+L'éléction du bureau se fait annuellement, et s'effectue sur le [liste de diffusion](http://lists.osgeo.org/mailman/listinfo/francophone)
  de l'association. Elle conserne tout les membres de l'association à jour de leurs
  cotisation la veille du début du vote.
 
@@ -244,15 +244,17 @@ Le lancement est réalisé par le coordinateur qui annonce le début de la campa
 * ainsi que la date limite pour voter,
 * et la méthode pour voter
 
-La procédure détaillé est disponible sur le [wiki][procedureVote]
+La procédure détaillé est disponible sur le (http://wiki.osgeo.org/wiki/Francophone_OSGeo_Chapter)http://wiki.osgeo.org/wiki/RFC_election_fr#Proc.C3.A9dure_de_vote
 
-Une fois le bureau élut, l'annonce en est faite sur la [liste de diffusion][list].
+Une fois le bureau élut, l'annonce en est faite sur la [liste de diffusion](http://lists.osgeo.org/mailman/listinfo/francophone).
 Le bureau sortant s'engage à fournir toute les informations et documents a la nouvelle
 équipe.
 
 **Procuration**
+
 Aucune procédure de procuration n'a été prévue pour les éléctions qui ont lieu sur
-la [liste de diffusion][list]. Les élections durent plusieurs semaines, avec possibilité
+la [liste de diffusion](http://lists.osgeo.org/mailman/listinfo/francophone).
+Les élections durent plusieurs semaines, avec possibilité
  de voter sur 5 jours.
 
 ## Article 14 : Ressources de l'association ##
@@ -300,23 +302,15 @@ Règlement Intérieur est destiné à  fixer les divers points non prévus par 
 statuts, notamment ceux qui ont trait au fonctionnement pratique des activités de
 l'association.
 
-Il est disponible sur le [wiki de l'OSGeo][reglement_interieur]
+Il est disponible sur le [wiki de l'OSGeo](http://wiki.osgeo.org/wiki/RFC_r%C3%A8glement_int%C3%A9rieur_fr)
 
 ## Article 18 : Formalités administratives ##
 Le Président du Bureau doit accomplir toutes les formalités de déclaration et de
-publication prévues par la loi du 1er juillet 1901 et par le décret du 16 aoà»t 1901 tant au
+publication prévues par la loi du 1er juillet 1901 et par le décret du 16 août 1901 tant au
 moment de la création de l'association qu'au cours de son existence ultérieure. Ces
 statuts ont été adoptés lors de l'Assemblée Générale du 19 juin 2008.
-
+s
 ## Article 19 : Informatique et libertés ##
 L'utilisation de données nominatives dans le cadre de l'association est fait en accord
 avec la loi 78-17 du 6 janvier 1978, relative à  l'informatique, aux fichiers et aux libertés
 et des textes modificatifs ultérieurs.
-
-[reglement_interieur] http://wiki.osgeo.org/wiki/RFC_r%C3%A8glement_int%C3%A9rieur_fr
-[list] http://lists.osgeo.org/mailman/listinfo/francophone
-[proc] https://drive.google.com/file/d/0B-lAiGffr4_6cmJtUU5oNFRiQXM/view?usp=sharing
-[wiki] http://wiki.osgeo.org/wiki/Francophone_OSGeo_Chapter
-[githubOsgeofr] https://github.com/OSGeo-fr
-[irc] http://osgeo.asso.fr/content/osgeo-fr-irc-chat
-[procedureVote] http://wiki.osgeo.org/wiki/RFC_election_fr#Proc.C3.A9dure_de_vote
