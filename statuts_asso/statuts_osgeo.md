@@ -214,13 +214,10 @@ La dissolution est prononcée, à  la demande du Bureau, par une Assemblée Gé
 En cas de dissolution, l'Assemblée Générale Extraordinaire désigne un ou plusieurs liquidateurs qui seront chargés de la liquidation des biens de l'association et dont elle détermine les pouvoirs. En aucun cas les membres de l'association ne pourront se voir attribuer, en dehors de la reprise de leurs apports, une part quelconque des biens de l'association. L'actif net substituant sera attribué obligatoirement à  une ou plusieurs autres associations poursuivant des buts similaires et qui seront nommément désignées par l'Assemblée Générale Extraordinaire.
 
 ## Article 17 : Règlement Intérieur ##
-Le Règlement intérieur est établi par les membres de l'association et votés par le
-Bureau qui en informe les adhérents. La RFC prend effet dès son vote par le Bureau. Ce
-Règlement Intérieur est destiné à  fixer les divers points non prévus par les présents
-statuts, notamment ceux qui ont trait au fonctionnement pratique des activités de
-l'association.
 
-Il est disponible sur le [wiki de l'OSGeo](http://wiki.osgeo.org/wiki/RFC_r%C3%A8glement_int%C3%A9rieur_fr)
+Le Règlement intérieur est établi par les membres de l'association et voté par le Bureau qui en informe les adhérents. La RFC prend effet dès son vote par le Bureau. Ce Règlement Intérieur est destiné à  fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait au fonctionnement pratique des activités de l'association.
+
+Il est disponible sur l'infrastructure informatique de l'OSGeo-fr
 
 ## Article 18 : Formalités administratives ##
 
