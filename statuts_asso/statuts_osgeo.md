@@ -224,6 +224,5 @@ Il est disponible sur l'infrastructure informatique de l'OSGeo-fr
 Le Président du Bureau doit accomplir toutes les formalités de déclaration et de publication prévues par la loi du 1er juillet 1901 et par le décret du 16 août 1901 tant au moment de la création de l'association qu'au cours de son existence ultérieure. Ces statuts ont été adoptés lors de l'Assemblée Générale du XX/XX/XXXX.
 
 ## Article 19 : Informatique et libertés ##
-L'utilisation de données nominatives dans le cadre de l'association est fait en accord
-avec la loi 78-17 du 6 janvier 1978, relative à  l'informatique, aux fichiers et aux libertés
-et des textes modificatifs ultérieurs.
+
+L'utilisation de données nominatives dans le cadre de l'association est fait en accord avec la loi 78-17 du 6 janvier 1978, relative à  l'informatique, aux fichiers et aux libertés et des textes modificatifs ultérieurs.
