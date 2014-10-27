@@ -36,14 +36,11 @@ Il pourra être modifié selon l'article 9 : Compétences du Bureau.
 La durée de l'association est illimitée.
 
 ## Article 5 : Composition ##
-L'association est composée de membres (ou adhérents) et de membres bienfaiteurs.
-L'admission des membres est ouverte à  toute personne qui souhaite aider l'OSGeo-fr à 
-remplir ses objectifs. Elle est prononcée par le Bureau, lequel en cas de refus, donne le
-motif de sa décision. Toute demande d'adhésion devra être formulée par écrit par le
-demandeur selon les conditions définies par le Règlement Intérieur.
 
-Chaque membre prend l'engagement de respecter les présents statuts, ainsi que le
-Règlement Intérieur. Ces documents lui seront transmis à  sa demande.
+L'association est composée de membres (ou adhérents) et de membres bienfaiteurs. 
+L'admission des membres est ouverte à  toute personne qui souhaite aider l'OSGeo-fr à remplir ses objectifs. Elle est tacite, mais le Bureau peut refuser une admission en donnant le motif de sa décision. Toute demande d'adhésion devra être formulée par le demandeur selon les conditions définies par le Règlement Intérieur.
+
+Chaque membre prend l'engagement de respecter les présents statuts, ainsi que le Règlement Intérieur. Ces documents lui seront transmis à  sa demande.
 
 **Les membres ou adhérents**
 
