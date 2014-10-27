@@ -1,6 +1,7 @@
 Statuts de l'OSGeo-fr
 =====================
-_Statuts adoptés lors de l'Assemblée Générale du 31 décembre 2014_
+
+_Statuts adoptés lors de l'Assemblée Générale du XX/12/14_
 
 ## Article 1 : Constitution et dénomination ##
 
@@ -306,11 +307,9 @@ l'association.
 Il est disponible sur le [wiki de l'OSGeo](http://wiki.osgeo.org/wiki/RFC_r%C3%A8glement_int%C3%A9rieur_fr)
 
 ## Article 18 : Formalités administratives ##
-Le Président du Bureau doit accomplir toutes les formalités de déclaration et de
-publication prévues par la loi du 1er juillet 1901 et par le décret du 16 août 1901 tant au
-moment de la création de l'association qu'au cours de son existence ultérieure. Ces
-statuts ont été adoptés lors de l'Assemblée Générale du 19 juin 2008.
-s
+
+Le Président du Bureau doit accomplir toutes les formalités de déclaration et de publication prévues par la loi du 1er juillet 1901 et par le décret du 16 août 1901 tant au moment de la création de l'association qu'au cours de son existence ultérieure. Ces statuts ont été adoptés lors de l'Assemblée Générale du XX/XX/XXXX.
+
 ## Article 19 : Informatique et libertés ##
 L'utilisation de données nominatives dans le cadre de l'association est fait en accord
 avec la loi 78-17 du 6 janvier 1978, relative à  l'informatique, aux fichiers et aux libertés
