@@ -29,10 +29,10 @@ Le siège social est fixé à :
         181 avenue Daumesnil,
         75012 Paris.
 
-Il pourra être modifié selon l'article
-9 : Compétences du Bureau.
+Il pourra être modifié selon l'article 9 : Compétences du Bureau.
 
 ## Article 4 : Durée ##
+
 La durée de l'association est illimitée.
 
 ## Article 5 : Composition ##
@@ -47,10 +47,7 @@ Règlement Intérieur. Ces documents lui seront transmis à  sa demande.
 
 **Les membres ou adhérents**
 
-Ce sont les personnes physiques qui adhèrent à  l'association et participent aux activités
-de celle-ci. Elles s'acquittent du paiement d'une cotisation annuelle, dont le montant est
-fixé dans le règlement intérieur. Elles ont le droit de vote (1 personne = 1 voix) pour
-participer aux fonctionnement de l'association.
+Ce sont les personnes physiques qui adhèrent à  l'association et participent aux activités de celle-ci. Elles s'acquittent du paiement d'une cotisation annuelle, dont le montant est fixé dans le règlement intérieur. Elles ont le droit de vote (1 personne = 1 voix) pour participer aux fonctionnement de l'association.
 
 L'adhésion est valide après l'envoi d'un bulletin d'adhésion et acceptation de celui-ci par
 le Bureau. L'adhésion est valable tant que la personne admise remplit les qualités
@@ -58,24 +55,19 @@ requises pour faire partie de l'association.
 
 **Les membres bienfaiteurs**
 
-Ce sont les personnes physiques qui sponsorisent l'association par l'intermédiaire de
-dons ponctuels ou de procédure de mécénat. Ce titre de membre bienfaiteur est
-proposé par le bureau. Elles n'ont aucun droit supplémentaire.
+Ce sont les personnes physiques qui sponsorisent l'association par l'intermédiaire de dons ponctuels ou de procédure de mécénat. Ce titre de membre bienfaiteur est proposé par le bureau. Elles n'ont aucun droit supplémentaire.
 
 ## Article 6 : Perte de la qualité de membre ##
+
 La qualité de membre se perd :
  * par absence d'inscription valide ;
  * par décès ;
  * par démission écrite adressée au Président de l'association ;
- * par exclusion prononcée par le bureau pour infraction aux présents statuts,
-infraction au Règlement Intérieur, ou motif grave portant préjudice moral ou
-matériel à  l'association.
+ * par exclusion prononcée par le bureau pour infraction aux présents statuts, infraction au Règlement Intérieur, ou motif grave portant préjudice moral ou matériel à  l'association.
 
-D'autres circonstances particulières entraînant la perte de la qualité de membre de
-l'association pourront être fixées par le Règlement Intérieur.
+D'autres circonstances particulières entraînant la perte de la qualité de membre de l'association pourront être fixées par le Règlement Intérieur.
 
-Avant la prise de décision éventuelle d'exclusion ou de radiation, le membre concerné
-est invité, au préalable, à  fournir des explications écrites au Bureau.
+Avant la prise de décision éventuelle d'exclusion ou de radiation, le membre concerné est invité, au préalable, à  fournir des explications écrites au Bureau.
 
 ## Article 7 : Bureau ##
 L'association est administrée par un Bureau composé de 3 membres minimum et 9
@@ -88,11 +80,9 @@ leur remplacement définitif par l'Assemblée Générale Ordinaire suivante. Les
 des membres ainsi élus provisoirement prennent fin à  l'époque oà¹ devrait normalement
 expirer le mandat des membres remplacés.
 
-Peut se présenter comme membre du Bureau tout adhérent de l'association, majeur et à 
-jour de sa cotisation.
+Peut se présenter comme membre du Bureau tout adhérent de l'association, majeur et à  jour de sa cotisation.
 
-Il est procédé à  l'élection des membres du Bureau, au scrutin uninominal majoritaire à 
-deux tours et à  bulletin secret :
+Il est procédé à  l'élection des membres du Bureau, au scrutin uninominal majoritaire à  deux tours et à  bulletin secret :
 
 * un président ;
 * un trésorier ;
