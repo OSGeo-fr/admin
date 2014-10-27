@@ -6,7 +6,7 @@ _Statuts adoptés lors de l'Assemblée Générale du 19 juin 2008_
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du
 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre « Représentation
-francophone de la Fondation Open Source Geospatial (OSGeo) Â», repris par le sigle
+francophone de la Fondation Open Source Geospatial (OSGeo) », repris par le sigle
 « OSGeo-fr » ou OSGeo Francophone.
 
 ## Article 2 : Objet ##
@@ -18,8 +18,13 @@ d'information géographique (SIG),
 3. les connaissances liées au domaine de la géomatique libre et open source.
 
 ## Article 3 : Siège social ##
-Le siège social est fixé à "la maison des associations du 12e" 181 avenue Daumesnil,
-75012 Paris. Il pourra être modifié selon l'article
+Le siège social est fixé à :
+
+        la maison des associations du 12e
+        181 avenue Daumesnil,
+        75012 Paris.
+
+Il pourra être modifié selon l'article
 9 : Compétences du Bureau.
 
 ## Article 4 : Durée ##
@@ -35,7 +40,7 @@ demandeur selon les conditions définies par le Règlement Intérieur.
 Chaque membre prend l'engagement de respecter les présents statuts, ainsi que le
 Règlement Intérieur. Ces documents lui seront transmis à  sa demande.
 
-*Les membres ou adhérents*
+**Les membres ou adhérents**
 
 Ce sont les personnes physiques qui adhèrent à  l'association et participent aux activités
 de celle-ci. Elles s'acquittent du paiement d'une cotisation annuelle, dont le montant est
@@ -48,7 +53,7 @@ L'adhésion est valide après l'envoi d'un bulletin d'adhésion et acceptation d
 le Bureau. L'adhésion est valable tant que la personne admise remplit les qualités
 requises pour faire partie de l'association.
 
-*Les membres bienfaiteurs*
+**Les membres bienfaiteurs**
 
 Ce sont les personnes physiques qui sponsorisent l'association par l'intermédiaire de
 dons ponctuels ou de procédure de mécénat. Ce titre de membre bienfaiteur est
@@ -214,7 +219,7 @@ valeurs qu'elle pourrait posséder, ainsi que des rétributions pour services re
 * de toutes autres ressources ou subventions qui ne seraient pas contraires aux lois
 en vigueur dans les territoires francophones.
 
-*Sponsorisation*
+**Sponsorisation**
 
 Une personne morale peut soutenir l'association en souscrivant au programme de
 sponsorisation annuelle ou ponctuelle. Cette aide peut se traduire de manière financière
