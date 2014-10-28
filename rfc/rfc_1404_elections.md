@@ -24,16 +24,7 @@ La procédure de vote est lancée annuellement, pour l'élection du Bureau de l'
 ### Définition ###
 
 * Campagne : période entre le moment où le président lance le début de la procédure d'élection et le résultat du vote.
-* Électeur : personne autorisée à envoyer son vote en fonction des critères définie par la présente RFC.
-
-### Électeur ###
-
-Les personnes qui peuvent voter (les électeurs) sont définies dans la RFC 'Organisation de l'OSGeo-fr'. Chaque électeur possède un droit de vote pour chaque personne à élire (un président et une personne par commission) ou pour chaque question (acceptez-vous la RFC YYYY ?). Les votes sont à envoyer selon la procédure établie ci-dessous.
-
-Les élections sont à la majorité (50 % plus une voix, parmi les voix exprimées) pour le premier tour. Dans le cas où il y a un deuxième tour, la personne qui reçoit le plus de votes est élue.
-
-La liste des électeurs est figée au plus tard le vendredi soir précédent le début du vote (première semaine de la campagne). Aucune possibilité de rattrapage ne sera possible.
-
+* Électeur : personne autorisée à envoyer son vote synonyme de membre à jour de sa cotisation dans la limite de la période de carence définie dans la présente RFC.
 
 ### Procédure de vote ###
 
@@ -42,6 +33,10 @@ La liste des électeurs est figée au plus tard le vendredi soir précédent le 
 Aucune procédure de procuration n'a été prévue. Les élections durent plusieurs semaines, avec possibilité de voter sur 5 jours.
 
 #### Fonctionnement ####
+
+Les élections sont à la majorité (50 % plus une voix, parmi les voix exprimées) pour le premier tour. Dans le cas où il y a un deuxième tour, la personne qui reçoit le plus de votes est élue.
+
+La liste des électeurs est figée au plus tard le vendredi soir précédent le début du vote (première semaine de la campagne). Aucune possibilité de rattrapage ne sera possible.
 
 Le Bureau choisit une personne pour gérer la procédure de vote un mois avant la date de l'élection. La suite est gérée par cette personne sous la responsabilité du président de l'association.
 Lancement
