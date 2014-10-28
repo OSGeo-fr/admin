@@ -10,7 +10,7 @@ Les RFC sont écrites sous forme de fichier .md et proposées en tant que Pull R
 ## Glossaire
 
  * PR : Pull Request
- * RCF : Request for comments
+ * RFC : Request for comments
 
 ## Les liens utilies
 
