@@ -19,7 +19,7 @@ Cette RFC vient en complément de **l'article 13** des statuts pour préciser de
 
 On peut distinguer deux types de votes au sein de l'OSGeo. Les décisions prisent en Assemblé Général Ordinaire ou Extra-ordinaire (AGO ou AGE). Et les élections d'un nouveau bureau. Cette RFC traite de ce second cas de figure. En ce qui concerne le premier vous pouvez vous reporter aux *articles 11* et *12 des statuts*.
 
-La procédure de vote est lancée annuellement, pour l'élection du Bureau de l'OSGeo-fr (c.f. article 10 des statuts). Pour l'adoption d'une RFC le vote en AG ou en suivant la procédure suivante peut être mis en place
+Cette procédure de vote est lancée annuellement, pour l'élection du Bureau de l'OSGeo-fr (c.f. article 10 des statuts), mais peut aussi être mobilisé pour l'adoption d'une RFC.
 
 ### Définition ###
 
@@ -30,16 +30,15 @@ La procédure de vote est lancée annuellement, pour l'élection du Bureau de l'
 
 #### Procuration ####
 
-Aucune procédure de procuration n'a été prévue. Les élections durent plusieurs semaines, avec possibilité de voter sur 5 jours.
+Aucune procédure de procuration n'a été prévue. La campagne dure plusieurs semaines, et le vote se déroule sur 5 jours.
 
 #### Fonctionnement ####
 
-Les élections sont à la majorité (50 % plus une voix, parmi les voix exprimées) pour le premier tour. Dans le cas où il y a un deuxième tour, la personne qui reçoit le plus de votes est élue.
+Les élections sont à la majorité absolut au premier tour. Dans le cas où un second tour est nécessaire, les candidats sont élut à la mojorité relative.
 
-La liste des électeurs est figée au plus tard le vendredi soir précédent le début du vote (première semaine de la campagne). Aucune possibilité de rattrapage ne sera possible.
+La liste des électeurs est figée au plus tard le vendredi soir précédent le début du vote. Aucune possibilité de rattrapage ne sera possible.
 
-Le Bureau choisit une personne pour gérer la procédure de vote un mois avant la date de l'élection. La suite est gérée par cette personne sous la responsabilité du président de l'association.
-Lancement
+Le Bureau choisit une personne pour gérer la procédure de vote (le coordinateur) un mois avant la date de l'élection. La suite est gérée par cette personne sous la responsabilité du président de l'association.
 
 ##### Déroulement #####
 
@@ -47,6 +46,7 @@ Lancement
 
 Le lancement est réalisé par le coordinateur qui annonce le début de la campagne : rappel de la procédure et lien vers celle-ci, date limite éventuelle pour se présenter, date limite pour voter, méthode pour voter : mail, page web, ... et annonce du coordinateur. Ce lancement se fait sur la [liste de diffusion](francophone@lists.osgeo.org)
 
+##### Exemple de lettre de convocation #####
 
          Bonjour,
 
