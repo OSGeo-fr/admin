@@ -17,13 +17,14 @@ Cette RFC vient en complément de **l'article 13** des statuts pour préciser de
 
 ### Introduction ###
 
-On peut distinguer deux types de votes au sein de l'OSGeo. Les décisions prisent en Assemblé Général Ordinaire ou Extra-ordinaire (AGO ou AGE). Et les élections d'un nouveau bureau. Cette RFC traite de ce second cas de figure. En ce qui concerne le premier vous pouvez vous reporter aux *articles 11* et *12 des statuts*.
+On peut distinguer deux types de votes au sein de l'OSGeo. Les décisions prisent en Assemblée Générale Ordinaire ou Extraordinaire (AGO ou AGE). Et les élections d'un nouveau bureau. Cette RFC traite de ce second cas de figure. En ce qui concerne le premier vous pouvez vous reporter aux *articles 11* et *12 des statuts*.
 
-Cette procédure de vote est lancée annuellement, pour l'élection du Bureau de l'OSGeo-fr (c.f. article 10 des statuts), mais peut aussi être mobilisé pour l'adoption d'une RFC.
+Cette procédure de vote est lancée annuellement, pour l'élection du Bureau de l'OSGeo-fr (c.f. article 10 des statuts), mais peut aussi être mobilisée pour l'adoption d'une RFC.
 
 ### Définition ###
 
-* Campagne : période entre le moment où le président lance le début de la procédure d'élection et le résultat du vote.
+* Campagne : période entre le début du dépôt des candidatures et sa clôture (ou le début du vote)
+* Vote: période entre le moment où le président lance le début de la procédure d'élection et le résultat du vote.
 * Électeur : personne autorisée à envoyer son vote synonyme de membre à jour de sa cotisation dans la limite de la période de carence définie dans la présente RFC.
 
 ### Procédure de vote ###
@@ -34,7 +35,7 @@ Aucune procédure de procuration n'a été prévue. La campagne dure plusieurs s
 
 #### Fonctionnement ####
 
-Les élections sont à la majorité absolut au premier tour. Dans le cas où un second tour est nécessaire, les candidats sont élut à la mojorité relative.
+Les élections sont à la majorité absolue au premier tour. Dans le cas où un second tour est nécessaire, les candidats sont élus à la mojorité relative.
 
 La liste des électeurs est figée au plus tard le vendredi soir précédent le début du vote. Aucune possibilité de rattrapage ne sera possible.
 
@@ -55,7 +56,7 @@ Le lancement est réalisé par le coordinateur qui annonce le début de la campa
          française).
 
          Étant donné le délai que pourra prendre le traitement et la vérification des
-         adhésions, nous vous serions grès de ne pas envoyer votre bulletin d'adhésion
+         adhésions, nous vous saurions gré de ne pas envoyer votre bulletin d'adhésion
          trop tardivement. Seuls les membres dont l'adhésion aura été finalisée
          pourront prendre part au vote !
 
@@ -87,7 +88,7 @@ Présentation des candidats sur la liste. La clôture de la liste des votants es
 
 **Deuxième semaine (du lundi au vendredi)**
 
-Envoie des votes par le coordinateur par l'intermédiaire du site http://osgeo.gloobe.org/sondage2/
+Envoi des votes par le coordinateur par l'intermédiaire du site http://osgeo.gloobe.org/sondage2/
 
 **Troisième semaine**
 
@@ -99,9 +100,9 @@ Les résultats sont annoncés sur les listes Francophone et Board-fr.
 
 **Étape post-élection**
 
-Lorsqu'un nouveau Bureau est élu, il est nécessaire de réaliser quelques étapes post-élection. Notamment annoncer le nouveau Bureau à l'OSGeo (liste board), d'envoyer au nouveau Président l'ensemble des documents numériques et lites des identifiants/mots de passe, d'activer un compte sur Google Apps et de donner les droits nécessaires, de donner toutes les informations nécessaires des projets en cours, et enfin de préparer les documents officiels pour officialiser le nouveau Bureau (annonce en Préfecture, changement des droits du compte postal, etc.)
+Lorsqu'un nouveau Bureau est élu, il est nécessaire de réaliser quelques étapes post-élection. Notamment annoncer le nouveau Bureau à l'OSGeo (liste board), d'envoyer au nouveau Président l'ensemble des documents numériques et lites des identifiants/mots de passe, d'activer un compte sur Google Apps et de donner les droits nécessaires, de donner toutes les informations nécessaires des projets en cours, et enfin de préparer les documents officiels pour officialiser le nouveau Bureau (annonce en Préfecture, changement des droits du compte postal, redirection des adresses email fonctionnelles, etc.)
 
-Après chaque élection il faut vérifier la page des procédures à réaliser au niveau légale, plus d'information sur ces procédures peuvent être trouvé sur la page Procédures pour l'association OSGeo-fr
+Après chaque élection il faut vérifier la page des procédures à réaliser au niveau légal, plus d'informations sur ces procédures peuvent être trouvées sur la page Procédures pour l'association OSGeo-fr
 
 ### Problème ###
 
