@@ -42,7 +42,7 @@ Comme l'OSGeo-fr n'accepte que des adhésions de personne physique, il n'est pas
 
 En clair, l'appartenance à la société ne peut être précisée qu'en second lieu, et la société ne peut se substituer à l'OSGeo-fr.
 
-En contrepartie, la page de présentation du projet établira clairement le nom de la société comme sponsorisant un de ces salariés pour la contribution à ce projet. Lors de toute communication sur ce projet un paragraphe sera rédigé expliquant que la société XXX finance le salaire d'un contributeur. Enfin la société verra son logo apparaître dans la page des sponsors des * projets * à une taille proportionnel aux autres sponsors de projets.
+En contrepartie, la page de présentation du projet établira clairement le nom de la société comme sponsorisant un de ces salariés pour la contribution à ce projet. Lors de toute communication sur ce projet un paragraphe sera rédigé expliquant que la société XXX finance le salaire d'un contributeur. Enfin la société verra son logo apparaître dans la page des sponsors des * projets * à une taille proportionnelle aux autres sponsors de projets.
 
 Exemple de remerciements :
   * Remerciements pour l'entreprise qui a permis à son salarié de prendre de son temps de travail, ex. : ''merci à la société XXX pour avoir donné du temps à Jean Dupuis''
