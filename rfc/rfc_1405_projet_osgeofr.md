@@ -37,7 +37,10 @@ Le projet doit être décrit de la manière la plus exhaustive possible sur une 
 ** Budget (équilibré, s'il y a lieu)
 
 * L'organisateur fait alors une demande au bureau via la liste publique [http://lists.osgeo.org/mailman/listinfo/board-fr board-fr].
-* Les membres du bureau se prononcent par vote sur la liste
+* Les membres du bureau se prononcent par vote sur la liste pour le soutien du projet.
+* Si le projet est accepté, la réalisation peut se faire et les aides de l'OSGeo sont concrétisées
+* L'organisateur tient régulièrement informé l'OSGeo-fr de l'avancée du projet, par la mailing list
+* En fin de projet, l'organisateur fait un compte rendu du projet sur la page de description du projet
 
 ### Contraintes
 
