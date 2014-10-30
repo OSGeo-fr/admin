@@ -17,14 +17,14 @@ L'OSGeo-fr peut s'engager moralement et/ou financièrement pour soutenir des ini
 
 ### Introduction
 
-L'OSGeo-fr a pour objectif de service de plateforme commune afin de dynamiser la communauté francophone ce qui peut passer par le soutient d'initiatives individuelles ou collectives répondant aux buts fixés par l'*article 2* des statuts de l'OSGeo-fr. Cette page a pour objectif de clarifier la procédure et les contraintes s'appliquant à tout porteur de projet sous ''l'égide de l'OSGeo-fr''.
+L'OSGeo-fr a pour objectif de servir de plateforme commune afin de dynamiser la communauté francophone, ce qui peut passer par le soutient d'initiatives individuelles ou collectives répondant aux buts fixés par l'*article 2* des statuts de l'OSGeo-fr. Cette page a pour objectif de clarifier la procédure et les contraintes s'appliquant à tout porteur de projet déclaré sous ''l'égide de l'OSGeo-fr''.
 
 ### Procédure pour l'organisateur
 
 L'organisateur est le membre de l'association qui porte le projet présenté et demande son soutien par l'OSGeo-fr.
 
 * L'organisateur fait une déclaration d'intention préalable sur la [liste de diffusion](http://lists.osgeo.org/listinfo/francophone) de l'OSGeo-fr.
-* L'organisateur crée un dossier de description de son événement.
+* L'organisateur crée un dossier de description de son événement
 
 Le projet doit être décrit de manière la plus exhaustive possible sur une page [wiki](http://wiki.osgeo.org/wiki/Francophone_OSGeo_Chapter) placée dans la catégorie ''Local chapter francophone''. Elle doit contenir les informations suivantes :
 ** Thématique s'il y a lieu
