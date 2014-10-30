@@ -44,10 +44,13 @@ Le projet doit être décrit de la manière la plus exhaustive possible sur une 
 
 ### Contraintes
 
-* Le projet doit être proposé à la communauté . Nous préférons que le tarif d'inscription soit le plus faible possible afin de pouvoir accueillir le maximum de monde.
-* L'organisateur a le droit de rajouter '''sous l'égide de l'OSGeo-fr''' ou '''projet OSGeo-fr''' ou '''événement OSGeo-fr''' accolé au nom de l'événement (toute autre mention doit être stipulée dans la description du projet et un accord du bureau est alors fait)
-* Dans le cas où un organisme de droit privé est organisateur, tout autre organisme devra être traité de manière équitable que ce soit en matière de sponsorisation ou de présentation en accord avec les besoins pour l'organisation de cette journée (nombre de sponsor ou de présentation)
-* Afficher le logo de l'OSGeo-fr de manière visible reprenant le terme '''sous l'égide''' ou '''projet OSGeo-fr''' ou '''événement OSGeo-fr'''
+* Le projet doit contribuer aux buts fixés par l'association, à l'*article 2* des statuts. Il peut notamment contribuer à l'avancement des logiciels libres en géomatiques ou des données libres
+* L'organisateur doit être membre de l'association à jour de cotisation
+* Le projet ne peut pas être à but lucratif
+* Le projet doit être proposé à la communauté et accessible à tous
+* L'organisateur a le droit de rajouter '''sous l'égide de l'OSGeo-fr''' ou '''projet OSGeo-fr''' accolé au nom du projet (toute autre mention doit être stipulée dans la description du projet et un accord du bureau est alors fait)
+* Dans le cas où un organisme de droit privé est organisateur, tout autre organisme devra être traité de manière équitable que ce soit en matière de sponsorisation ou de participation
+* Afficher le logo de l'OSGeo-fr de manière visible reprenant le terme '''sous l'égide''' ou '''projet OSGeo-fr''' 
 * Suivre la page [[Déontologie_actions_osgeofr]]
 
 ### Actions réalisées par l'OSGeo-fr
