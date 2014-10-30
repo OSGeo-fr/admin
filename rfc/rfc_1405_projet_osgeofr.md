@@ -1,5 +1,5 @@
 RFC 1405 : Organisation d'un projet sous l'égide de l'OSGeo-fr
-=================================================================
+==============================================================
 
 ## Statut
 
@@ -7,11 +7,11 @@ Brouillon
 
 ## Objet
 
-Cette RFC décrit comment un projet peut être soutenu par l'OSGeo-fr
+Cette RFC décrit comment un projet peut être proposé par un membre et soutenu par l'OSGeo-fr
 
 ## Motivation
 
-L'OSGeo-fr peut s'engager moralement et/ou financièrement pour soutenir des initiatives porter a sa connaissance et qui entre dans le cadre de l'*article 2* de ses statuts.
+L'OSGeo-fr peut s'engager moralement et/ou financièrement pour soutenir des initiatives portées à sa connaissance et qui entrent dans le cadre de l'*article 2* de ses statuts.
 
 ## Proposition
 
