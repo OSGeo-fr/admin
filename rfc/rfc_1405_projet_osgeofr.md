@@ -65,11 +65,10 @@ L'association pourra réaliser les actions suivantes, en accord et avec l'aide d
 
 ### Modalités budgétaires
 
-* L'association OSGeo-fr peut sur demande servir de plateforme pour organiser un événement, notamment recevoir les paiements et régler les factures
+* L'association OSGeo-fr peut sur demande servir de plateforme pour organiser un projett, notamment recevoir des paiements et régler des factures
 * les conditions du support de la part l'Osgeo-fr doivent être clairement demandés par le ou les organisateurs (appui matériel, humain, financier, soutien officiel, etc.),
-* si le projet dégage du bénéfice, l'OSGeo-fr doit pouvoir recevoir une partie des fonds recueillis et les consacrer à
-ses missions et projets, en l'indiquant clairement dès le début du projet de la journée.
-* si le projet est déficitaire, l'OSGeo-fr ne peut être tenue pour responsable des résultats financiers et ne doit pas assurer de couvrir le déficit de la journée
+* si le projet dégage du bénéfice, l'OSGeo-fr doit pouvoir recevoir une partie des fonds recueillis et les consacrer à ses missions et projets, en l'indiquant clairement dès le début du projet de la journée.
+* si le projet est déficitaire, l'OSGeo-fr ne peut être tenue pour responsable des résultats financiers et ne doit pas assurer de couvrir les déficits au delà de l'accord sur le budget prévisionnel
 
 
 ### Modalités administratives
