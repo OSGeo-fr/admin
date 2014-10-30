@@ -26,17 +26,15 @@ L'organisateur est le membre de l'association qui porte le projet présenté et 
 * L'organisateur fait une déclaration d'intention préalable sur la [liste de diffusion](http://lists.osgeo.org/listinfo/francophone) de l'OSGeo-fr.
 * L'organisateur crée un dossier de description de son événement
 
-Le projet doit être décrit de manière la plus exhaustive possible sur une page [wiki](http://wiki.osgeo.org/wiki/Francophone_OSGeo_Chapter) placée dans la catégorie ''Local chapter francophone''. Elle doit contenir les informations suivantes :
-** Thématique s'il y a lieu
-** Date et lieu
-** Équipe organisation
-** Modalités de sponsorisation (s'il y a lieu)
+Le projet doit être décrit de la manière la plus exhaustive possible sur une page [wiki](http://wiki.osgeo.org/wiki/Francophone_OSGeo_Chapter) placée dans la catégorie ''Local chapter francophone''. Elle doit contenir les informations suivantes :
+** Un résumé du projet
+** L'équipe d'organisation
+** Les modalités de sponsorisation par des partenaires externes (s'il y a lieu)
 ** La description et le contexte du projet
-** Description des ressources requises
+** Description des ressources requises et demandées à l'OSGeo-fr (appui matériel, humain, financier, soutien officiel...)
 ** Planification de la mise en oeuvre
 ** Outils d'évaluation et de contrôle
 ** Budget (équilibré, s'il y a lieu)
-** Description du support désiré de la part de l'OSGeo-fr (appui matériel, humain, financier, soutien officiel...)
 
 * L'organisateur fait alors une demande au bureau via la liste publique [http://lists.osgeo.org/mailman/listinfo/board-fr board-fr].
 * Les membres du bureau se prononcent par vote sur la liste
