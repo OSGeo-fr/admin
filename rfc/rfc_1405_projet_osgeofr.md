@@ -73,5 +73,16 @@ L'association pourra réaliser les actions suivantes, en accord et avec l'aide d
 
 ### Modalités administratives
 
-* Lorsque des échanges financiers ont lieu, une convention est rédigée, constituant un cadre contractuel aux initiatives, reprenant les modalités exprimées ici.
-* Une fois par an, le bureau de l'Osgeo-fr doit identifier clairement dans son rapport moral et son rapport financier tous les événements qu'elle aura soutenus, et communiquer à ce sujet sur la mailing list lors des élections du bureau.
+* Une fois par an, le bureau de l'Osgeo-fr doit identifier clairement dans son rapport moral et son rapport financier tous les projets qu'elle aura soutenus, et communiquer à ce sujet sur la mailing list lors des élections du bureau.
+
+### Exemples de projets
+
+À titre d'illustration, les projets suivants pourraient être envisagés et soutenus comme étant des '''projets OSGeo-fr''' :
+
+* Réalisation d'affiches et de matériel promotionnel
+* Organisation d'un concours de programmation avec lots à la clef
+* Le financement d'un projet étudiant de développement logiciel
+* Une Mapping party
+* La création d'un service en ligne de démonstration d'outils opensource ( financement des frais de serveur )
+* Le financement d'un déplacement d'un représentant de l'OSGeo à un évènement spécifique pour faire de la promotion
+
