@@ -4,12 +4,12 @@ Nous vous prions de bien vouloir assister à  l'assemblée générale extra
 
 Cette assemblée générale extraordinaire nous permettra d'aborder les points suivants qui seront donc à l'ordre du jour :
 
-  * Vote des statuts modifiés
-  * Vote de la RFC sur les modalités d'élections
-  * Vote de la RFC sur le soutien d'événements
-  * Vote de la RFC sur le soutien de projets
-  * Vote de la RFC proposant un nouveau règlement intérieur
-  * Vote de la RFC concernant la sponsorisation de l'association
+  * Vote des statuts modifiés <https://github.com/OSGeo-fr/admin/blob/rfc/statuts_asso/statuts_osgeo.md>
+  * Vote de la RFC sur les modalités d'élections <https://github.com/OSGeo-fr/admin/blob/rfc_elections/rfc/rfc_1404_elections.md>
+  * Vote de la RFC sur le soutien d'événements <https://github.com/OSGeo-fr/admin/blob/rfc_evenement_osgeofr/rfc/rfc_1403_evenement_osgeofr.md>
+  * Vote de la RFC sur le soutien de projets <https://github.com/OSGeo-fr/admin/blob/rfc_projet_osgeofr/rfc/rfc_1405_projet_osgeofr.md>
+  * Vote de la RFC proposant un nouveau règlement intérieur <https://github.com/OSGeo-fr/admin/blob/rfc_reglementinterieur/rfc/rfc_1402_reglement_interieur.md>
+  * Vote de la RFC concernant la sponsorisation de l'association <https://github.com/OSGeo-fr/admin/blob/rfc_sponsorisation/rfc/rfc_1401_sponsorisation.md>
   * Questions diverses.
 
 Il vous est possible de poser des questions à l'assemblée, par écrit. Les questions seront listées en début d'assemblée générale et nous prendrons un temps pour les traiter en fin de période.
