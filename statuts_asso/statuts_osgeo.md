@@ -1,6 +1,8 @@
 Statuts de l'OSGeo-fr
 =====================
+
 _Statuts adoptés lors de l'Assemblée Générale du 19 juin 2008_
+_Statuts révisés adoptés lors de l'Assemblée Générale du 4 décembre 2014_
 
 ## Article 1 : Constitution et dénomination ##
 
@@ -10,6 +12,7 @@ francophone de la Fondation Open Source Geospatial (OSGeo) », repris par le sig
 « OSGeo-fr » ou OSGeo Francophone.
 
 ## Article 2 : Objet ##
+
 L'association a pour objet de promouvoir dans la sphère francophone et notamment en
 langue française :
 1. les technologies libres et open source liées à  la géomatique et aux systèmes
@@ -18,6 +21,7 @@ d'information géographique (SIG),
 3. les connaissances liées au domaine de la géomatique libre et open source.
 
 ## Article 3 : Siège social ##
+
 Le siège social est fixé à :
 
         la maison des associations du 12e
@@ -28,9 +32,11 @@ Il pourra être modifié selon l'article
 9 : Compétences du Bureau.
 
 ## Article 4 : Durée ##
+
 La durée de l'association est illimitée.
 
 ## Article 5 : Composition ##
+
 L'association est composée de membres (ou adhérents) et de membres bienfaiteurs.
 L'admission des membres est ouverte à  toute personne qui souhaite aider l'OSGeo-fr à 
 remplir ses objectifs. Elle est prononcée par le Bureau, lequel en cas de refus, donne le
@@ -60,6 +66,7 @@ dons ponctuels ou de procédure de mécénat. Ce titre de membre bienfaiteur est
 proposé par le bureau. Elles n'ont aucun droit supplémentaire.
 
 ## Article 6 : Perte de la qualité de membre ##
+
 La qualité de membre se perd :
  * par absence d'inscription valide ;
  * par décès ;
@@ -75,6 +82,7 @@ Avant la prise de décision éventuelle d'exclusion ou de radiation, le membre c
 est invité, au préalable, à  fournir des explications écrites au Bureau.
 
 ## Article 7 : Bureau ##
+
 L'association est administrée par un Bureau composé de 3 membres minimum et 9
 membres maximum. Il est désigné annuellement par vote des adhérents, en Assemblée
 Générale Ordinaire (AGO). Les membres sortants sont rééligibles.
@@ -94,9 +102,8 @@ deux tours et à  bulletin secret :
 * un président ;
 * un trésorier ;
 * un secrétaire (optionnel);
-* un chef de comité pour la commission « logiciels libres » ;
-* un chef de comité pour la commission « organisation libre » ;
-* un chef de comité pour la commission « données libres ».
+* un responsable communication;
+* un responsable infrastructure (optionnel);
 
 La fonction de Président n'est pas cumulable. Une personne ne peut pas cumuler plus
 de deux fonctions au sein du bureau. Les postes de Président, Trésorier et Secrétaire
@@ -106,6 +113,7 @@ nécessaires à  son bon déroulement (convocation, ordre du jour, présentatio
 comptes, élection, compte-rendu, etc.).
 
 ## article 8 : Réunion du Bureau ##
+
 Le Bureau se réunit régulièrement pour faire état de l'avancement des projets, des
 problèmes rencontrés, des pistes d'évolution et de résolution à  envisager. Chaque
 adhérent de l'association a la possibilité d'ajouter un ou plusieurs sujets de son choix à 
@@ -120,6 +128,7 @@ cas d'égalité des voix, la voix du Président est prépondérante. La réunion
 un compte-rendu public publié sur le wiki.
 
 ## Article 9 : Compétences du Bureau ##
+
 Le Bureau est investi d'une manière générale des pouvoirs les plus étendus dans la
 limite des buts de l'association et dans le cadre des résolutions adoptées par les
 Assemblées Générales. Il peut autoriser tout acte et opération permis par l'association
@@ -144,6 +153,7 @@ Le Bureau peut modifier le siège social de l'association. Cette modification es
 ratifiée par la prochaine AGO.
 
 ## Article 10 : Rôle des membres du Bureau ##
+
 Le Bureau est spécialement investi dans les attributions suivantes :
 
 1. Le Président dirige les travaux du Bureau et assure le fonctionnement de
@@ -163,16 +173,17 @@ les opérations tant en recettes qu'en dépenses et rend compte de sa gestion à
 l'Assemblée Générale Ordinaire qui statue sur les comptes qui lui sont présentés.
 En cas d'empêchement, le Trésorier peut déléguer ses pouvoirs, après accord du
 Bureau, à  un autre membre du Bureau.
-4. Chaque Chef de comité est responsable du bon fonctionnement de la commission
-à  la tête de laquelle il a été élu.
+4. Le responsable communication est en charge de la communication interne et externe de l'OSGeo-fr, par tous les médias nécessaire
+5. Le responsable infrastructure est en charge de la mise en place et de la maintenance des outils informatiques de l'association
 
 ## Article 11 : Assemblée Générale Ordinaire ##
+
 L'Assemblée Générale Ordinaire (AGO) comprend tous les membres et bienfaiteurs de
 l'association. Elle se réunit chaque année au mois de septembre. Quinze jours au moins
 avant la date fixée, les membres de l'association sont convoqués par le(la) Secrétaire.
 L'ordre du jour est indiqué sur les convocations.
 
-Au cas oà¹ le quorum nécessaire à  la tenue de l'AGO (50 % des membres présents ou
+Au cas où le quorum nécessaire à  la tenue de l'AGO (50 % des membres présents ou
 représentés + 1) ne serait pas atteint, l'AGO pourra être close par le Président et pourra
 être immédiatement suivie d'une AGE, sans quorum obligatoire. Cette éventualité de
 fonctionnement devra, pour être valable, être précisée sur les convocations à  l'AGO.
@@ -202,11 +213,13 @@ membre présent selon les modalités définies dans le règlement intérieur. Un
 pourra pas cumuler plus de deux pouvoirs de vote.
 
 ## Article 12 : Assemblée Générale Extraordinaire ##
-à la demande du bureau ou sur celle de la majorité des membres actifs (ou adhérents),
+
+À la demande du bureau ou sur celle de la majorité des membres actifs (ou adhérents),
 le Président peut convoquer une Assemblée Générale Extraordinaire (AGE). Celle-ci se
 réunira selon les mêmes conditions d'organisation que celles de l'AGO.
 
 ## Article 13 : Ressources de l'association ##
+
 Les ressources de l'association se composent :
 
 * du montant des cotisations des membres adhérents ;
@@ -227,6 +240,7 @@ ou matérielle. Les possibilités de sponsorisation sont définies au sein du r�
 intérieur.
 
 ## Article 14 : Dissolution de l'association ##
+
 La dissolution est prononcée, à  la demande du Bureau, par une Assemblée Générale
 Extraordinaire (AGE), convoquée à  cet effet. Pour la validité des décisions, l'AGE doit
 comprendre au moins la majorité des membres (ou adhérents). Si cette proportion n'est
@@ -236,6 +250,7 @@ valable, la décision de dissolution requiert l'accord des deux tiers des membre
 ou représentés. Le vote s'effectue à  bulletin secret.
 
 ## Article 15 : Dévolution des biens ##
+
 En cas de dissolution, l'Assemblée Générale Extraordinaire désigne un ou plusieurs
 liquidateurs qui seront chargés de la liquidation des biens de l'association et dont elle
 détermine les pouvoirs. En aucun cas les membres de l'association ne pourront se voir
@@ -245,6 +260,7 @@ autres associations poursuivant des buts similaires et qui seront nommément dé
 par l'Assemblée Générale Extraordinaire.
 
 ## Article 16 : Règlement Intérieur ##
+
 Le Règlement intérieur est établi par les membres de l'association et votés par le
 Bureau qui en informe les adhérents. La RFC prend effet dès son vote par le Bureau. Ce
 Règlement Intérieur est destiné à  fixer les divers points non prévus par les présents
@@ -252,12 +268,14 @@ statuts, notamment ceux qui ont trait au fonctionnement pratique des activités 
 l'association.
 
 ## Article 17 : Formalités administratives ##
+
 Le Président du Bureau doit accomplir toutes les formalités de déclaration et de
 publication prévues par la loi du 1er juillet 1901 et par le décret du 16 aoà»t 1901 tant au
 moment de la création de l'association qu'au cours de son existence ultérieure. Ces
 statuts ont été adoptés lors de l'Assemblée Générale du 19 juin 2008.
 
 ## Article 18 : Informatique et libertés ##
+
 L'utilisation de données nominatives dans le cadre de l'association est fait en accord
 avec la loi 78-17 du 6 janvier 1978, relative à  l'informatique, aux fichiers et aux libertés
 et des textes modificatifs ultérieurs.
