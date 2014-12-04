@@ -2,6 +2,7 @@ Statuts de l'OSGeo-fr
 =====================
 
 _Statuts adoptés lors de l'Assemblée Générale du 19 juin 2008_
+
 _Statuts révisés adoptés lors de l'Assemblée Générale du 4 décembre 2014_
 
 ## Article 1 : Constitution et dénomination ##
