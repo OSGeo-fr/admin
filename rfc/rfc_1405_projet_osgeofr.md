@@ -3,7 +3,7 @@ RFC 1405 : Organisation d'un projet sous l'égide de l'OSGeo-fr
 
 ## Statut
 
-Brouillon
+Approuvée AG 4/12/14
 
 ## Objet
 
