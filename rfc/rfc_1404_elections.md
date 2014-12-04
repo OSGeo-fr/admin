@@ -1,9 +1,9 @@
 RFC 1404 : RFC élection du bureau
-========================
+=================================
 
 ## Statut
 
-Brouillon
+Approuvé, AG du 4/12/14
 
 ## Objet
 
