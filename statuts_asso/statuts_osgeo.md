@@ -91,7 +91,7 @@ Générale Ordinaire (AGO). Les membres sortants sont rééligibles.
 En cas de vacance (décès, démission, exclusion, ... etc.) d'un des membres du Bureau,
 ce dernier pourvoit provisoirement au remplacement de ces membres. Il est procédé à 
 leur remplacement définitif par l'Assemblée Générale Ordinaire suivante. Les pouvoirs
-des membres ainsi élus provisoirement prennent fin à  l'époque oà¹ devrait normalement
+des membres ainsi élus provisoirement prennent fin à  la date où devrait normalement
 expirer le mandat des membres remplacés.
 
 Peut se présenter comme membre du Bureau tout adhérent de l'association, majeur et à 
