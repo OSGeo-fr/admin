@@ -41,36 +41,52 @@ La durée de l'association est illimitée.
 
 ## Article 5 : Composition ##
 
-L'association est composée de membres (ou adhérents) et de membres bienfaiteurs.
-L'admission des membres est ouverte à  toute personne qui souhaite aider l'OSGeo-fr à 
+L'admission des membres est ouverte à toute personne physique ou morale qui souhaite aider l'OSGeo-fr à 
 remplir ses objectifs. Elle est prononcée par le Bureau, lequel en cas de refus, donne le
 motif de sa décision. Toute demande d'adhésion devra être formulée par écrit par le
 demandeur selon les conditions définies par le Règlement Intérieur.
 
+L'association est composée de :
+
+- membres actifs (ou adhérents);
+- membres bienfaiteurs;
+- membres associés.
+
 Chaque membre prend l'engagement de respecter les présents statuts, ainsi que le
-Règlement Intérieur. Ces documents lui seront transmis à  sa demande.
+Règlement Intérieur. Ces documents lui seront transmis à sa demande.
 
-**Les membres ou adhérents**
-
-Ce sont les personnes physiques ou morales qui adhèrent à  l'association et participent aux activités
-de celle-ci. Elles s'acquittent du paiement d'une cotisation annuelle, dont le montant est
-fixé dans le règlement intérieur.
-
-~~Elles ont le droit de vote (1 personne = 1 voix) pour
-participer aux fonctionnement de l'association. Elles pourront se faire représenter et
-voter par procuration en confiant un pouvoir de vote à  un autre membre actif. Tout
-membre actif ne peut détenir plus de 2 pouvoirs de vote.~~
-
+Les membres s'acquittent du paiement d'une cotisation annuelle, dont le montant est fixé dans le règlement intérieur.
 
 L'adhésion est valide après l'envoi d'un bulletin d'adhésion et acceptation de celui-ci par
 le Bureau. L'adhésion est valable tant que la personne admise remplit les qualités
 requises pour faire partie de l'association.
+
+Une personne morale membre actif de l'association peut se faire représenter par une personne physique de son choix, membre de l'association, pour les Assemblées Générales.
+
+**Les membres actifs**
+
+Toute personne physique, ou morale, peut être membre actif de l'association, à
+condition d'adhérer aux présents statuts et au réglement intérieur.
+
+Une personne morale membre actif de l'association peut se faire représenter
+par une personne physique de son choix, membre de l'association, pour les
+Assemblées Générales.
+
+Seuls les membres actifs de l'association peuvent être élus au Bureau, sous réserve de remplir les conditions d'éligibilité fixées par le réglement intérieur.
 
 **Les membres bienfaiteurs**
 
 Ce sont les personnes physiques qui sponsorisent l'association par l'intermédiaire de
 dons ponctuels ou de procédure de mécénat. Ce titre de membre bienfaiteur est
 proposé par le bureau. Elles n'ont aucun droit supplémentaire.
+
+**Les membres associés**
+
+~~Les personnes physiques ont le droit de vote (1 personne = 1 voix) pour
+participer aux fonctionnement de l'association. Elles pourront se faire représenter et
+voter par procuration en confiant un pouvoir de vote à  un autre membre actif. Tout
+membre actif ne peut détenir plus de 2 pouvoirs de vote.~~
+
 
 ## Article 6 : Perte de la qualité de membre ##
 
