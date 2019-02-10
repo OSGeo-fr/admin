@@ -5,6 +5,8 @@ _Statuts adoptés lors de l'Assemblée Générale du 19 juin 2008_
 
 _Statuts révisés adoptés lors de l'Assemblée Générale du 4 décembre 2014_
 
+_Statuts révisés adoptés lors de l'Assemblée Générale du XX mars 2019_
+
 ## Article 1 : Constitution et dénomination ##
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du
@@ -49,12 +51,15 @@ Règlement Intérieur. Ces documents lui seront transmis à  sa demande.
 
 **Les membres ou adhérents**
 
-Ce sont les personnes physiques qui adhèrent à  l'association et participent aux activités
+Ce sont les personnes physiques ou morales qui adhèrent à  l'association et participent aux activités
 de celle-ci. Elles s'acquittent du paiement d'une cotisation annuelle, dont le montant est
-fixé dans le règlement intérieur. Elles ont le droit de vote (1 personne = 1 voix) pour
+fixé dans le règlement intérieur.
+
+~~Elles ont le droit de vote (1 personne = 1 voix) pour
 participer aux fonctionnement de l'association. Elles pourront se faire représenter et
 voter par procuration en confiant un pouvoir de vote à  un autre membre actif. Tout
-membre actif ne peut détenir plus de 2 pouvoirs de vote.
+membre actif ne peut détenir plus de 2 pouvoirs de vote.~~
+
 
 L'adhésion est valide après l'envoi d'un bulletin d'adhésion et acceptation de celui-ci par
 le Bureau. L'adhésion est valable tant que la personne admise remplit les qualités
