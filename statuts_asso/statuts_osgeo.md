@@ -27,12 +27,13 @@ d'information géographique (SIG),
 
 Le siège social est fixé à :
 
-        la maison des associations du 12e
-        181 avenue Daumesnil,
-        75012 Paris.
+      Association OSGeo-fr
+      ENSG
+      6/8 avenue Blaise Pascal
+      BP Champs-sur-Marne
+      77455 MARNE-LA-VALLÉE CEDEX 2
 
-Il pourra être modifié selon l'article
-9 : Compétences du Bureau.
+Il pourra être modifié selon l'article 9 : Compétences du Bureau.
 
 ## Article 4 : Durée ##
 
