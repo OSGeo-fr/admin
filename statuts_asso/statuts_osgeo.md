@@ -174,7 +174,7 @@ assure la transcription sur le registre prévu à  cet effet. C'est aussi lui q
 registre spécial prévu par la loi du 1er juillet 1901. En cas d'empêchement, le
 Secrétaire peut déléguer ses pouvoirs, après accord du Bureau, à  un autre
 membre du Bureau.
-3. Le Trésorier tient les comptes de l'association. Il effectue tout paiement et perà§oit
+3. Le Trésorier tient les comptes de l'association. Il effectue tout paiement et perçoit
 toutes les recettes de l'association. Il tient une comptabilité régulière, de toutes
 les opérations tant en recettes qu'en dépenses et rend compte de sa gestion à 
 l'Assemblée Générale Ordinaire qui statue sur les comptes qui lui sont présentés.
