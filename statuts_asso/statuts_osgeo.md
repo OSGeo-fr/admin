@@ -81,8 +81,7 @@ Une personne morale membre actif de l'association peut se faire représenter par
 Toute personne physique, ou morale, peut être membre actif de l'association, à
 condition d'adhérer aux présents statuts et au réglement intérieur.
 
-Une personne morale membre actif de l'association peut se faire représenter
-par une personne physique de son choix, membre de l'association, pour les
+Une personne morale peut se faire représenter par une personne physique de son choix, membre de l'association, pour les
 Assemblées Générales.
 
 Seuls les membres actifs de l'association peuvent être élus au Bureau, sous réserve de remplir les conditions d'éligibilité fixées par le réglement intérieur.
