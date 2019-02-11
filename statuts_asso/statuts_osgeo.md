@@ -23,6 +23,7 @@ d'information géographique (SIG),
 2. les données géospatiales libres,
 3. les connaissances liées au domaine de la géomatique libre et open source.
 
+source ou données, librement redistribuables et modifiables et sous licences dites "libres" garantissant la libre utilisation, réuitilisation, modification et redistribution. 
 ## Article 3 : Siège social ##
 
 Le siège social est fixé à :
