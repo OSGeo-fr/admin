@@ -94,6 +94,20 @@ proposé par le bureau. Elles n'ont aucun droit supplémentaire.
 
 **Les membres associés**
 
+L'association peut également s'associer avec d'autres associations.
+Toute personne physique ou morale peut être membre associé de l'association
+à la condition de respecter l'esprit et la lettre des présents statuts, et de
+s'acquitter de la participation éventuellement prévue, telle que définie au
+règlement intérieur.
+Elle sera membre associé soit pour l'année de son admission telle que définie
+au réglement intérieur, soit pour telle ou telle opération ponctuelle.
+En ce cas, une convention particulière sera établie, prévoyant les conditions de
+cette collaboration.
+Un membre associé participera par ses connaissances, ses relations et autres
+capacités, au développement des activités de l'association.
+
+
+
 ~~Les personnes physiques ont le droit de vote (1 personne = 1 voix) pour
 participer aux fonctionnement de l'association. Elles pourront se faire représenter et
 voter par procuration en confiant un pouvoir de vote à  un autre membre actif. Tout
