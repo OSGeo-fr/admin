@@ -246,22 +246,20 @@ réunira selon les mêmes conditions d'organisation que celles de l'AGO.
 
 Les ressources de l'association se composent :
 
-* du montant des cotisations des membres adhérents ;
-de la rétribution et des cessions de documentations et de diverses publications et
-matériels ;
-* des subventions des personnes morales ;
-* du produit des fêtes et manifestations, des intérêts et redevances des biens et
-valeurs qu'elle pourrait posséder, ainsi que des rétributions pour services rendus ;
+* des cotisations des membres adhérents ;
+* de la rétribution et des cessions de documentations et de diverses publications et matériels ;
+* de subventions ;
+* de dons ; 
+* de mécénats ou parrainages ;
+* de sponsoring ;
+* du produit des fêtes et manifestations, des intérêts et redevances des biens et valeurs qu'elle pourrait posséder, ainsi que des rétributions pour services rendus ;
 * du revenu de ses biens ;
-* de toutes autres ressources ou subventions qui ne seraient pas contraires aux lois
-en vigueur dans les territoires francophones.
+* de toutes autres ressources ou subventions qui ne seraient pas contraires aux lois en vigueur dans les territoires francophones.
 
-**Sponsorisation**
+**Soutien via des opération de sponsorisation, mécénat et parrainage**
 
-Une personne morale peut soutenir l'association en souscrivant au programme de
-sponsorisation annuelle ou ponctuelle. Cette aide peut se traduire de manière financière
-ou matérielle. Les possibilités de sponsorisation sont définies au sein du règlement
-intérieur.
+Une personne morale peut soutenir l'association de diverses manières via des opérations de soutien financier, en nature ou de compétences.
+Les possibilités de soutien sont définies au sein du règlement intérieur.
 
 ## Article 14 : Dissolution de l'association ##
 
