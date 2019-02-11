@@ -18,12 +18,24 @@ francophone de la Fondation Open Source Geospatial (OSGeo) », repris par le sig
 
 L'association a pour objet de promouvoir dans la sphère francophone et notamment en
 langue française :
+
 1. les technologies libres et open source liées à  la géomatique et aux systèmes
 d'information géographique (SIG),
 2. les données géospatiales libres,
 3. les connaissances liées au domaine de la géomatique libre et open source.
 
-source ou données, librement redistribuables et modifiables et sous licences dites "libres" garantissant la libre utilisation, réuitilisation, modification et redistribution. 
+Sont considérés comme libres les logiciels et données disponibles sous forme de code
+source ou données, librement redistribuables et modifiables et sous licences dites "libres" garantissant la libre utilisation, réutilisation, modification et redistribution. 
+
+Pour réaliser ses objectifs, l'association : 
+
+- Organise des évènements de promotion, rencontres utilisateur et développeurs, codes sprint, etc.. ;
+- Héberger, organise, coordonne, et centralise les budgets de groupes de travail. Ces groupes peuvent être des groupes intérêts liés à des projets (groupe QGIS utilisateur francophone, groupe entreprises utilisateurs, groupe portant le développement d'une application particulière) ;
+- Contribue aux projets OSGEO et tout autre projet favorisant et défendant l'écosystème du logiciel libre ;
+- Effectue des prestations de différentes natures (conseil, service, formation,...), prestations pouvant faire l'objet d'une facturation ;
+- Engage tous les actions qu'elle jugera utiles à la réalisation de ses objectifs.
+
+
 ## Article 3 : Siège social ##
 
 Le siège social est fixé à :
