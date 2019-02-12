@@ -274,10 +274,7 @@ Les ressources de l'association se composent :
 
 * des cotisations des membres adhérents ;
 * de la rétribution et des cessions de documentations et de diverses publications et matériels ;
-* de subventions ;
-* de dons ; 
-* de mécénats ou parrainages ;
-* de sponsoring ;
+* de subventions, dons, mécénats, parrainages ou revenus de sponsoring ;
 * du produit des fêtes et manifestations, des intérêts et redevances des biens et valeurs qu'elle pourrait posséder, ainsi que des rétributions pour services rendus ;
 * du revenu de ses biens ;
 * de toutes autres ressources ou subventions qui ne seraient pas contraires aux lois en vigueur dans les territoires francophones.
