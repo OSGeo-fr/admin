@@ -30,7 +30,7 @@ source ou données, librement redistribuables et modifiables et sous licences di
 Pour réaliser ses objectifs, l'association : 
 
 - Organise des évènements de promotion, rencontres utilisateur et développeurs, codes sprint, etc.. ;
-- Héberger, organise, coordonne, et centralise les budgets de groupes de travail. Ces groupes peuvent être des groupes intérêts liés à des projets (groupe QGIS utilisateur francophone, groupe entreprises utilisateurs, groupe portant le développement d'une application particulière) ;
+- Héberge, organise, coordonne, et centralise les budgets de groupes de travail. Ces groupes peuvent être des groupes intérêts liés à des projets (groupe QGIS utilisateur francophone, groupe entreprises utilisateurs, groupe portant le développement d'une application particulière) ;
 - Contribue aux projets OSGEO et tout autre projet favorisant et défendant l'écosystème du logiciel libre ;
 - Engage tous les actions qu'elle jugera utiles à la réalisation de ses objectifs.
 
@@ -230,7 +230,7 @@ Le bureau inclut les représentants des groupes rattachés à l'association. Le 
 
 L'Assemblée Générale Ordinaire (AGO) comprend tous les membres et bienfaiteurs de
 l'association. Elle se réunit chaque année au mois de septembre. Quinze jours au moins
-avant la date fixée, les membres de l'association sont convoqués par le(la) Secrétaire.
+avant la date fixée, les membres de l'association sont convoqués par le Secrétaire.
 L'ordre du jour est indiqué sur les convocations.
 
 Au cas où le quorum nécessaire à  la tenue de l'AGO (50 % des membres présents ou
