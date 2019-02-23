@@ -87,9 +87,9 @@ Seuls les membres actifs de l'association peuvent être élus au Bureau, sous r�
 
 **Les membres bienfaiteurs**
 
-Ce sont les personnes physiques qui sponsorisent l'association par l'intermédiaire de
+Ce sont les personnes physiques ou morales qui sponsorisent l'association par l'intermédiaire de
 dons ponctuels ou de procédure de mécénat. Ce titre de membre bienfaiteur est
-proposé par le bureau. Elles n'ont aucun droit supplémentaire.
+proposé par le bureau. Elles n'ont aucun droit supplémentaire par rapport aux membres actifs.
 
 **Les membres associés**
 
