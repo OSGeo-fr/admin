@@ -208,7 +208,7 @@ Bureau, à  un autre membre du Bureau.
 4. Le responsable communication est en charge de la communication interne et externe de l'OSGeo-fr, par tous les médias nécessaire
 5. Le responsable infrastructure est en charge de la mise en place et de la maintenance des outils informatiques de l'association
 
-Le bureau inclut les représentants des groupes rattachés à l'association. Le représentant du groupe QGIS des utilisateurs Francophones est ainsi présent au bureau.
+Le bureau peut inclure des représentants de groupes d'intérêt constitués au sein de l'association.
 
 ## Article 11 : Assemblée Générale Ordinaire ##
 
