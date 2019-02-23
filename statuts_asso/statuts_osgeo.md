@@ -278,7 +278,7 @@ Les ressources de l'association se composent :
 * du produit des fêtes et manifestations, des intérêts et redevances des biens et valeurs qu'elle pourrait posséder, ainsi que des rétributions pour services rendus ;
 * de toutes autres ressources ou subventions qui ne seraient pas contraires aux lois en vigueur dans les territoires francophones.
 
-**Soutien via des opération de sponsorisation, mécénat et parrainage**
+**Soutien via des opérations de sponsorisation, mécénat et parrainage**
 
 Une personne morale peut soutenir l'association de diverses manières via des opérations de soutien financier, en nature ou de compétences.
 Les possibilités de soutien sont définies au sein du règlement intérieur.
