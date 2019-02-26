@@ -155,6 +155,10 @@ réunion pour apporter des informations quant à  sa demande.
 Tout adhérent peut demander la réunion du bureau sur simple demande pour toutes
 questions en rapport avec l'objet de l'association.
 
+Le bureau peut inclure de manière systématique des représentants de groupes d'intérêt 
+constitués au sein de l'association.
+
+
 Les décisions sont prises à  la majorité des voix des membres du Bureau présents. En
 cas d'égalité des voix, la voix du Président est prépondérante. La réunion donne lieu à 
 un compte-rendu public publié sur le wiki.
@@ -207,8 +211,6 @@ En cas d'empêchement, le Trésorier peut déléguer ses pouvoirs, après accord
 Bureau, à  un autre membre du Bureau.
 4. Le responsable communication est en charge de la communication interne et externe de l'OSGeo-fr, par tous les médias nécessaire
 5. Le responsable infrastructure est en charge de la mise en place et de la maintenance des outils informatiques de l'association
-
-Le bureau peut inclure des représentants de groupes d'intérêt constitués au sein de l'association.
 
 ## Article 11 : Assemblée Générale Ordinaire ##
 
@@ -275,7 +277,7 @@ comprendre au moins la majorité des membres (ou adhérents). Si cette proportio
 pas atteinte, une nouvelle AGE est convoquée dans un intervalle de 15 jours. Elle peut
 alors délibérer avec un quorum équivalent au quart de ses membres actifs. Pour être
 valable, la décision de dissolution requiert l'accord des deux tiers des membres présents
-ou représentés. Le vote s'effectue à  bulletin secret.
+ou représentés. Le vote s'effectue à bulletin secret.
 
 ## Article 15 : Dévolution des biens ##
 
