@@ -46,14 +46,6 @@ Le siège social est fixé à :
       BP Champs-sur-Marne
       77455 MARNE-LA-VALLÉE CEDEX 2
 
-L'association a pour objet de promouvoir dans la sphère francophone et notamment en langue française : 
-
-* les technologies libres et open source liées à la géomatique et aux systèmes d'information géographique (SIG), 
-* les données géospatiales libres, 
-* les connaissances liées au domaine de la géomatique libre et open source.
-
-L'association est composée de membres (ou adhérents) et de membres bienfaiteurs comme définie dans les statuts.
-
 ### Article 5 - Règles générales de diffusion de l'information
 
 En dehors de l’information interne à l’association accessible à chacun des membres et pouvant faire l’objet d’une procédure de diffusion spécifique, il existe une information courante de la vie de l’association concernant en premier chef le Bureau, tel que notamment la collecte des demandes d’adhésion, pour laquelle les modalités de diffusion suivantes sont retenues :
