@@ -36,7 +36,15 @@ L'acceptation de l’adhésion est tacite. Une adhésion peut être refusée par
 ### Article 4 : Organisation et fonctionnement de l'association
 
 ''(cf. article 2, 5 et 9 des statuts)''
-Le siège social est situé à Maison des associations du 12e 181, avenue Daumesnil 75012 Paris. Il peut être transféré par simple décision du Bureau, sans qu'il soit nécessaire de faire une modification statutaire. Ce transfert est ensuite entériné par l'AG suivante.
+Le siège social peut être transféré par simple décision du Bureau, sans qu'il soit nécessaire de faire une modification statutaire. Ce transfert est ensuite entériné par l'AG suivante.
+
+Le siège social est fixé à :
+
+      Association OSGeo-fr
+      ENSG
+      6/8 avenue Blaise Pascal
+      BP Champs-sur-Marne
+      77455 MARNE-LA-VALLÉE CEDEX 2
 
 L'association a pour objet de promouvoir dans la sphère francophone et notamment en langue française : 
 
