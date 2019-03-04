@@ -1,9 +1,12 @@
-RFC 1402 : Règlement intérieur
-==============================
+
+# Règlement intérieur
 
 ## Statut
 
-Approuvé AG 4/12/14
+Version 2019-01 associée à la refonte des statuts pour l'ouverture de l'association aux personnes morales.
+
+-Approuvés par l'AG 4/12/14
+-Modifiés et approuvés le xx/xx/2019
 
 ## Objet
 
@@ -29,7 +32,7 @@ Le présent règlement intérieur s’applique à tous les membres de l’associ
 
 ### Article 3 : Procédure d’adhésion
 
-Chaque candidat adhérent remplit une demande d'adhésion et procède au réglement de sa cotisation. Une adhésion est valable pour une année civile. 
+Chaque candidat adhérent remplit une demande d'adhésion et procède au réglement de sa cotisation. Une adhésion est valable pour une année civile.
 
 L'acceptation de l’adhésion est tacite. Une adhésion peut être refusée par le bureau, la décision est alors prise conformément aux règles de vote énoncées dans les statuts.
 
