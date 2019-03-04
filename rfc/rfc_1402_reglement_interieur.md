@@ -16,7 +16,7 @@ Cette RFC décrit le règlement intérieur de l'OSGeo-fr.
 
 Le règlement complète les statuts de l'association, et permet un gestion souple pour sa modification. Il précise des règles de fonctionnement, notamment les montants des adhésions.
 
-## Proposition
+## Articles du réglement intérieur
 
 ### Article 1 : Entrée en vigueur et modification du règlement intérieur
 
@@ -54,6 +54,15 @@ Le siège social est fixé à :
 En dehors de l’information interne à l’association accessible à chacun des membres et pouvant faire l’objet d’une procédure de diffusion spécifique, il existe une information courante de la vie de l’association concernant en premier chef le Bureau, tel que notamment la collecte des demandes d’adhésion, pour laquelle les modalités de diffusion suivantes sont retenues :
 
 Toute information nécessitant une réaction rapide de l’association doit être transmise immédiatement à l’ensemble des membres du Bureau.
+
+Les canaux de communications retenus sont:
+
+- La liste de mails francophone@xxx destinées à l'information et l'échange avec tous les adhérents et sympathisants OSGeo-FR
+- l'adresse bureau@osgeo.asso.fr pour contacter le bureau
+- les adresses president@osgeo.asso.fr, tresorier@osgeo.asso.fr et secretaire@osgeo.asso.fr pour les sujets relevant uniquement d'un de ces rôles
+- le canal IRC freenode #osgeofr pour les communications instantanées
+
+- Tout autre canal possible est autorisé mais sera considéré comme secondaire et devra être doublé d'une information sur la mailing liste. Les réseaux sociaux, canaux alternatifs (gitter, matrix, forums, twitter & reseaux sociaux) sont utilisables pour la communication publique.
 
 ### Article 6 : Mandats et comptes bancaires
 
