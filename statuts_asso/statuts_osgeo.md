@@ -155,9 +155,9 @@ réunion pour apporter des informations quant à  sa demande.
 Tout adhérent peut demander la réunion du bureau sur simple demande pour toutes
 questions en rapport avec l'objet de l'association.
 
-Le bureau peut inclure de manière systématique des représentants de groupes d'intérêt 
-constitués au sein de l'association.
-
+Le Bureau peut inviter à sa convenance tout intervenant, membre ou non de l'association,
+ dont la présence est jugée pertinente pour la bonne tenue des débats à l'ordre du jour.
+Le ou les invités peuvent participer aux votes, leur voix est cependant purement consultative.
 
 Les décisions sont prises à  la majorité des voix des membres du Bureau présents. En
 cas d'égalité des voix, la voix du Président est prépondérante. La réunion donne lieu à 
