@@ -70,9 +70,38 @@ Le Trésorier, en complément des dispositions déjà prévues aux statuts, a le
 
 ### Article 7 : Cotisation et Adhésion
 
-Le montant de l’adhésion est fixé pour la période du 1er janvier au 31 décembre, elle est de :
-* 10 euros pour une adhérent individuel ;
-* 5 euros pour un étudiant / chômeur.
+
+
+#### Personnes physiques
+
+Le montant de l’adhésion est fixé pour la période du 1er janvier au 31 décembre, elle est au minimum :
+
+- 10 euros ou plus pour une adhérent individuel ;
+- 5 euros ou plus pour un étudiant / chômeur.
+
+#### Personnes morales
+
+*Option1: tarif unique plancher*
+
+L'adhésion des personnes morales est fixée à 500 € minimum. 
+
+
+*Option2: grille tarifaire*
+
+- Collectivités, établissements publics, services de l'Etat et structures assimilées avec mission de service publique (hors EPIC)
+
+ - de 1 à 10 employés :
+ - de 50 à 250 employés :
+ - 250 employés et plus :
+
+- Structures à vocation commerciale (le CA est il un bon critère?)
+
+ - chiffre d'affaire < 100 000 euros (auto entrepreneurs) 50 euros
+ - chiffre d'affaire > PME 1000 euros
+ - Grandes entreprises : 3000 euros
+
 
 En cas de manquement grave à l’esprit de l’association, le Bureau pourra voter, conformément aux règles énoncées dans les statuts, l’exclusion d’un membre. En cas d’exclusion, la cotisation ne sera pas remboursée.
+
+### Modalités et droits de vote 
 
