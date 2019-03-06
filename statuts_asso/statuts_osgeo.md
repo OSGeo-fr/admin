@@ -285,8 +285,9 @@ En cas de dissolution, l'Assemblée Générale Extraordinaire désigne un ou plu
 liquidateurs qui seront chargés de la liquidation des biens de l'association et dont elle
 détermine les pouvoirs. En aucun cas les membres de l'association ne pourront se voir
 attribuer, en dehors de la reprise de leurs apports, une part quelconque des biens de
-l'association. L'actif net substituant sera attribué obligatoirement à tous les destinataires autorisés par la loi dans le prolongement de l'objet social de l'association poursuivant des buts similaires et qui seront nommément désignées
-par l'Assemblée Générale Extraordinaire.
+l'association. L'actif net ne pourra être transmis, dans le respect des lois en vigueur,
+qu'à des entités poursuivant des buts similaires, connexes ou qui les prolongent, et qui 
+seront nommément désignées par l'Assemblée Générale Extraordinaire.
 
 ## Article 16 : Règlement Intérieur ##
 
