@@ -5,6 +5,8 @@ _Statuts adoptés lors de l'Assemblée Générale du 19 juin 2008_
 
 _Statuts révisés adoptés lors de l'Assemblée Générale du 4 décembre 2014_
 
+_Statuts révisés adoptés lors de l'Assemblée Générale du XX mars 2019_
+
 ## Article 1 : Constitution et dénomination ##
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du
@@ -16,21 +18,34 @@ francophone de la Fondation Open Source Geospatial (OSGeo) », repris par le sig
 
 L'association a pour objet de promouvoir dans la sphère francophone et notamment en
 langue française :
+
 1. les technologies libres et open source liées à  la géomatique et aux systèmes
 d'information géographique (SIG),
 2. les données géospatiales libres,
 3. les connaissances liées au domaine de la géomatique libre et open source.
 
+Sont considérés comme libres les logiciels et données disponibles sous forme de code
+source ou données, librement redistribuables et modifiables et sous licences dites "libres" garantissant la libre utilisation, réutilisation, modification et redistribution. 
+
+Pour réaliser ses objectifs, l'association : 
+
+- Organise des évènements de promotion, rencontres utilisateur et développeurs, codes sprint, etc.. ;
+- Héberge, organise, coordonne, et centralise les budgets de groupes de travail. Ces groupes peuvent être des groupes intérêts liés à des projets (groupe QGIS utilisateur francophone, groupe entreprises utilisateurs, groupe portant le développement d'une application particulière) ;
+- Contribue aux projets OSGEO et tout autre projet favorisant et défendant l'écosystème du logiciel libre ;
+- Engage tous les actions qu'elle jugera utiles à la réalisation de ses objectifs.
+
+
 ## Article 3 : Siège social ##
 
 Le siège social est fixé à :
 
-        la maison des associations du 12e
-        181 avenue Daumesnil,
-        75012 Paris.
+      Association OSGeo-fr
+      ENSG
+      6/8 avenue Blaise Pascal
+      BP Champs-sur-Marne
+      77455 MARNE-LA-VALLÉE CEDEX 2
 
-Il pourra être modifié selon l'article
-9 : Compétences du Bureau.
+Il pourra être modifié selon l'article 9 : Compétences du Bureau.
 
 ## Article 4 : Durée ##
 
@@ -38,33 +53,49 @@ La durée de l'association est illimitée.
 
 ## Article 5 : Composition ##
 
-L'association est composée de membres (ou adhérents) et de membres bienfaiteurs.
-L'admission des membres est ouverte à  toute personne qui souhaite aider l'OSGeo-fr à 
+L'admission des membres est ouverte à toute personne physique ou morale qui souhaite aider l'OSGeo-fr à 
 remplir ses objectifs. Elle est prononcée par le Bureau, lequel en cas de refus, donne le
 motif de sa décision. Toute demande d'adhésion devra être formulée par écrit par le
 demandeur selon les conditions définies par le Règlement Intérieur.
 
+L'association est composée de :
+
+- membres actifs (ou adhérents);
+- membres bienfaiteurs;
+
 Chaque membre prend l'engagement de respecter les présents statuts, ainsi que le
-Règlement Intérieur. Ces documents lui seront transmis à  sa demande.
+Règlement Intérieur. Ces documents lui seront transmis à sa demande.
 
-**Les membres ou adhérents**
-
-Ce sont les personnes physiques qui adhèrent à  l'association et participent aux activités
-de celle-ci. Elles s'acquittent du paiement d'une cotisation annuelle, dont le montant est
-fixé dans le règlement intérieur. Elles ont le droit de vote (1 personne = 1 voix) pour
-participer aux fonctionnement de l'association. Elles pourront se faire représenter et
-voter par procuration en confiant un pouvoir de vote à  un autre membre actif. Tout
-membre actif ne peut détenir plus de 2 pouvoirs de vote.
+Les membres s'acquittent du paiement d'une cotisation annuelle, dont le montant est fixé dans le règlement intérieur.
 
 L'adhésion est valide après l'envoi d'un bulletin d'adhésion et acceptation de celui-ci par
 le Bureau. L'adhésion est valable tant que la personne admise remplit les qualités
 requises pour faire partie de l'association.
 
+Une personne morale membre actif de l'association peut se faire représenter par une personne physique de son choix, membre de l'association, pour les Assemblées Générales.
+
+**Les membres actifs**
+
+Toute personne physique, ou morale, peut être membre actif de l'association, à
+condition d'adhérer aux présents statuts et au réglement intérieur.
+
+Une personne morale peut se faire représenter par une personne physique de son choix, membre de l'association, pour les
+Assemblées Générales.
+
+Seuls les membres actifs de l'association peuvent être élus au Bureau, sous réserve de remplir les conditions d'éligibilité fixées par le réglement intérieur. Les élus du bureau sont des personnes physiques. 
+
 **Les membres bienfaiteurs**
 
-Ce sont les personnes physiques qui sponsorisent l'association par l'intermédiaire de
+Ce sont les personnes physiques ou morales qui sponsorisent l'association par l'intermédiaire de
 dons ponctuels ou de procédure de mécénat. Ce titre de membre bienfaiteur est
-proposé par le bureau. Elles n'ont aucun droit supplémentaire.
+proposé par le bureau. Elles n'ont aucun droit supplémentaire par rapport aux membres actifs.
+
+
+~~Les personnes physiques ont le droit de vote (1 personne = 1 voix) pour
+participer aux fonctionnement de l'association. Elles pourront se faire représenter et
+voter par procuration en confiant un pouvoir de vote à  un autre membre actif. Tout
+membre actif ne peut détenir plus de 2 pouvoirs de vote.~~
+
 
 ## Article 6 : Perte de la qualité de membre ##
 
@@ -124,6 +155,10 @@ réunion pour apporter des informations quant à  sa demande.
 Tout adhérent peut demander la réunion du bureau sur simple demande pour toutes
 questions en rapport avec l'objet de l'association.
 
+Le Bureau peut inviter à sa convenance tout intervenant, membre ou non de l'association,
+ dont la présence est jugée pertinente pour la bonne tenue des débats à l'ordre du jour.
+Le ou les invités peuvent participer aux votes, leur voix est cependant purement consultative.
+
 Les décisions sont prises à  la majorité des voix des membres du Bureau présents. En
 cas d'égalité des voix, la voix du Président est prépondérante. La réunion donne lieu à 
 un compte-rendu public publié sur le wiki.
@@ -168,7 +203,7 @@ assure la transcription sur le registre prévu à  cet effet. C'est aussi lui q
 registre spécial prévu par la loi du 1er juillet 1901. En cas d'empêchement, le
 Secrétaire peut déléguer ses pouvoirs, après accord du Bureau, à  un autre
 membre du Bureau.
-3. Le Trésorier tient les comptes de l'association. Il effectue tout paiement et perà§oit
+3. Le Trésorier tient les comptes de l'association. Il effectue tout paiement et perçoit
 toutes les recettes de l'association. Il tient une comptabilité régulière, de toutes
 les opérations tant en recettes qu'en dépenses et rend compte de sa gestion à 
 l'Assemblée Générale Ordinaire qui statue sur les comptes qui lui sont présentés.
@@ -181,7 +216,7 @@ Bureau, à  un autre membre du Bureau.
 
 L'Assemblée Générale Ordinaire (AGO) comprend tous les membres et bienfaiteurs de
 l'association. Elle se réunit chaque année au mois de septembre. Quinze jours au moins
-avant la date fixée, les membres de l'association sont convoqués par le(la) Secrétaire.
+avant la date fixée, les membres de l'association sont convoqués par le Secrétaire.
 L'ordre du jour est indiqué sur les convocations.
 
 Au cas où le quorum nécessaire à  la tenue de l'AGO (50 % des membres présents ou
@@ -223,22 +258,16 @@ réunira selon les mêmes conditions d'organisation que celles de l'AGO.
 
 Les ressources de l'association se composent :
 
-* du montant des cotisations des membres adhérents ;
-de la rétribution et des cessions de documentations et de diverses publications et
-matériels ;
-* des subventions des personnes morales ;
-* du produit des fêtes et manifestations, des intérêts et redevances des biens et
-valeurs qu'elle pourrait posséder, ainsi que des rétributions pour services rendus ;
-* du revenu de ses biens ;
-* de toutes autres ressources ou subventions qui ne seraient pas contraires aux lois
-en vigueur dans les territoires francophones.
+* des cotisations des membres adhérents ;
+* de la rétribution et des cessions de documentations et de diverses publications et matériels ;
+* de subventions, dons, mécénats, parrainages ou revenus de sponsoring ;
+* du produit des fêtes et manifestations, des intérêts et redevances des biens et valeurs qu'elle pourrait posséder, ainsi que des rétributions pour services rendus ;
+* de toutes autres ressources ou subventions qui ne seraient pas contraires aux lois en vigueur dans les territoires francophones.
 
-**Sponsorisation**
+**Soutien via des opérations de sponsorisation, mécénat et parrainage**
 
-Une personne morale peut soutenir l'association en souscrivant au programme de
-sponsorisation annuelle ou ponctuelle. Cette aide peut se traduire de manière financière
-ou matérielle. Les possibilités de sponsorisation sont définies au sein du règlement
-intérieur.
+Une personne morale peut soutenir l'association de diverses manières via des opérations de soutien financier, en nature ou de compétences.
+Les possibilités de soutien sont définies au sein du règlement intérieur.
 
 ## Article 14 : Dissolution de l'association ##
 
@@ -248,7 +277,7 @@ comprendre au moins la majorité des membres (ou adhérents). Si cette proportio
 pas atteinte, une nouvelle AGE est convoquée dans un intervalle de 15 jours. Elle peut
 alors délibérer avec un quorum équivalent au quart de ses membres actifs. Pour être
 valable, la décision de dissolution requiert l'accord des deux tiers des membres présents
-ou représentés. Le vote s'effectue à  bulletin secret.
+ou représentés. Le vote s'effectue à bulletin secret.
 
 ## Article 15 : Dévolution des biens ##
 
@@ -256,9 +285,9 @@ En cas de dissolution, l'Assemblée Générale Extraordinaire désigne un ou plu
 liquidateurs qui seront chargés de la liquidation des biens de l'association et dont elle
 détermine les pouvoirs. En aucun cas les membres de l'association ne pourront se voir
 attribuer, en dehors de la reprise de leurs apports, une part quelconque des biens de
-l'association. L'actif net substituant sera attribué obligatoirement à  une ou plusieurs
-autres associations poursuivant des buts similaires et qui seront nommément désignées
-par l'Assemblée Générale Extraordinaire.
+l'association. L'actif net ne pourra être transmis, dans le respect des lois en vigueur,
+qu'à des entités poursuivant des buts similaires, connexes ou qui les prolongent, et qui 
+seront nommément désignées par l'Assemblée Générale Extraordinaire.
 
 ## Article 16 : Règlement Intérieur ##
 

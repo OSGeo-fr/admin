@@ -1,9 +1,12 @@
-RFC 1402 : Règlement intérieur
-==============================
+
+# Règlement intérieur
 
 ## Statut
 
-Approuvé AG 4/12/14
+Version 2019-01 associée à la refonte des statuts pour l'ouverture de l'association aux personnes morales.
+
+-Approuvés par l'AG 4/12/14
+-Modifiés et approuvés le xx/xx/2019
 
 ## Objet
 
@@ -13,7 +16,7 @@ Cette RFC décrit le règlement intérieur de l'OSGeo-fr.
 
 Le règlement complète les statuts de l'association, et permet un gestion souple pour sa modification. Il précise des règles de fonctionnement, notamment les montants des adhésions.
 
-## Proposition
+## Articles du réglement intérieur
 
 ### Article 1 : Entrée en vigueur et modification du règlement intérieur
 
@@ -29,22 +32,22 @@ Le présent règlement intérieur s’applique à tous les membres de l’associ
 
 ### Article 3 : Procédure d’adhésion
 
-Chaque candidat adhérent remplit une demande d'adhésion et procède au réglement de sa cotisation. Une adhésion est valable pour une année civile. 
+Chaque candidat adhérent remplit une demande d'adhésion et procède au réglement de sa cotisation. Une adhésion est valable pour une année civile.
 
 L'acceptation de l’adhésion est tacite. Une adhésion peut être refusée par le bureau, la décision est alors prise conformément aux règles de vote énoncées dans les statuts.
 
 ### Article 4 : Organisation et fonctionnement de l'association
 
 ''(cf. article 2, 5 et 9 des statuts)''
-Le siège social est situé à Maison des associations du 12e 181, avenue Daumesnil 75012 Paris. Il peut être transféré par simple décision du Bureau, sans qu'il soit nécessaire de faire une modification statutaire. Ce transfert est ensuite entériné par l'AG suivante.
+Le siège social peut être transféré par simple décision du Bureau, sans qu'il soit nécessaire de faire une modification statutaire. Ce transfert est ensuite entériné par l'AG suivante.
 
-L'association a pour objet de promouvoir dans la sphère francophone et notamment en langue française : 
+Le siège social est fixé à :
 
-* les technologies libres et open source liées à la géomatique et aux systèmes d'information géographique (SIG), 
-* les données géospatiales libres, 
-* les connaissances liées au domaine de la géomatique libre et open source.
-
-L'association est composée de membres (ou adhérents) et de membres bienfaiteurs comme définie dans les statuts.
+      Association OSGeo-fr
+      ENSG
+      6/8 avenue Blaise Pascal
+      BP Champs-sur-Marne
+      77455 MARNE-LA-VALLÉE CEDEX 2
 
 ### Article 5 - Règles générales de diffusion de l'information
 
@@ -52,15 +55,53 @@ En dehors de l’information interne à l’association accessible à chacun des
 
 Toute information nécessitant une réaction rapide de l’association doit être transmise immédiatement à l’ensemble des membres du Bureau.
 
+Les canaux de communications retenus sont:
+
+- La liste de mails francophone@xxx destinées à l'information et l'échange avec tous les adhérents et sympathisants OSGeo-FR
+- l'adresse bureau@osgeo.asso.fr pour contacter le bureau
+- les adresses president@osgeo.asso.fr, tresorier@osgeo.asso.fr et secretaire@osgeo.asso.fr pour les sujets relevant uniquement d'un de ces rôles
+- le canal IRC freenode #osgeofr pour les communications instantanées
+
+- Tout autre canal possible est autorisé mais sera considéré comme secondaire et devra être doublé d'une information sur la mailing liste. Les réseaux sociaux, canaux alternatifs (gitter, matrix, forums, twitter & reseaux sociaux) sont utilisables pour la communication publique.
+
 ### Article 6 : Mandats et comptes bancaires
 
 Le Trésorier, en complément des dispositions déjà prévues aux statuts, a le pouvoir de signer les dépenses entrant dans le cadre des dépenses de fonctionnement de l’association. Le Président peut signer les dépenses après accord du Trésorier.
 
 ### Article 7 : Cotisation et Adhésion
 
-Le montant de l’adhésion est fixé pour la période du 1er janvier au 31 décembre, elle est de :
-* 10 euros pour une adhérent individuel ;
-* 5 euros pour un étudiant / chômeur.
+
+
+#### Personnes physiques
+
+Le montant de l’adhésion est fixé pour la période du 1er janvier au 31 décembre, elle est au minimum :
+
+- 10 euros ou plus pour une adhérent individuel ;
+- 5 euros ou plus pour un étudiant / chômeur.
+
+#### Personnes morales
+
+*Option1: tarif unique plancher*
+
+L'adhésion des personnes morales est fixée à 500 € minimum. 
+
+
+*Option2: grille tarifaire*
+
+- Collectivités, établissements publics, services de l'Etat et structures assimilées avec mission de service publique (hors EPIC)
+
+ - de 1 à 10 employés :
+ - de 50 à 250 employés :
+ - 250 employés et plus :
+
+- Structures à vocation commerciale (le CA est il un bon critère?)
+
+ - chiffre d'affaire < 100 000 euros (auto entrepreneurs) 50 euros
+ - chiffre d'affaire > PME 1000 euros
+ - Grandes entreprises : 3000 euros
+
 
 En cas de manquement grave à l’esprit de l’association, le Bureau pourra voter, conformément aux règles énoncées dans les statuts, l’exclusion d’un membre. En cas d’exclusion, la cotisation ne sera pas remboursée.
+
+### Modalités et droits de vote 
 
