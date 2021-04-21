@@ -16,7 +16,7 @@ L'option de payer pour une adresse chez un hébergeur et coupler cela à une ré
 
 En conséquence, il est proposé d'héberger le siège social au domicile de Régis haubourg - président actuel. 
 
-La modification est voté dans le ticket le 21 avril à 13h31. 
+La modification est votée dans le ticket le 21 avril à 13h31. 
 
 La proposition de changement de statut est soumise via la pull request https://github.com/OSGeo-fr/admin/pull/8
 
