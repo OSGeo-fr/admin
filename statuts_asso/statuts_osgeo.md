@@ -276,6 +276,13 @@ publication prévues par la loi du 1er juillet 1901 et par le décret du 16 aoà
 moment de la création de l'association qu'au cours de son existence ultérieure. Ces
 statuts ont été adoptés lors de l'Assemblée Générale du 19 juin 2008.
 
+Le bureau est autorisé à procéder aux formalités suivantes, sans convocation d'assemblée générale :
+
+- modification de l'adresse de gestion et du siège sociale de l'association
+
+Tout changement devra être proposé et discuté publiquement, via la liste mail officielle, dans un ticket de suivi et enfin être soumise à un vote publique dans la proposition de changement de statuts sur le dépôt administratif (Pull Request ou Merge Request) 
+
+
 ## Article 18 : Informatique et libertés ##
 
 L'utilisation de données nominatives dans le cadre de l'association est fait en accord
