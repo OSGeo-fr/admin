@@ -26,9 +26,8 @@ d'information géographique (SIG),
 Le siège social est fixé à :
 
       Association OSGeo-fr
-      6/8 avenue Blaise Pascal
-      BP Champs-sur-Marne
-      77455 MARNE-LA-VALLÉE CEDEX 2
+      117 chemin de l'Oie
+      38700 LE SAPPEY EN CHARTREUSE
 
 
 Il pourra être modifié selon l'article
