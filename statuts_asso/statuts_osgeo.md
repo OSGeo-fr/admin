@@ -5,6 +5,8 @@ _Statuts adoptés lors de l'Assemblée Générale du 19 juin 2008_
 
 _Statuts révisés adoptés lors de l'Assemblée Générale du 4 décembre 2014_
 
+_Statuts révisés pour changement d'adresse adoptés lors de l'Assemblée Générale Extraordinaire du 23 juin 2021_
+
 ## Article 1 : Constitution et dénomination ##
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du
