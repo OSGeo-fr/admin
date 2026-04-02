@@ -1,3 +1,5 @@
+⚠️ dépôt décommisionné. Les sources sont dans l'espace nextcloud de l'association. Les documents officiels sont diffusés via le site web osgeo.fr
+
 Admin
 =====
 
